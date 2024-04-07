@@ -1,0 +1,269 @@
+07-04-2024 15:30:19.528 [Gauge] [INFO] Watching directory: C:\Users\mharu\Desktop\chrometest-master\specs
+07-04-2024 15:30:19.528 [Gauge] [DEBUG] Found 2 files
+07-04-2024 15:30:19.529 [Gauge] [INFO] Watching directory: C:\Users\mharu\Desktop\chrometest-master\specs\concepts
+07-04-2024 15:30:19.529 [Gauge] [DEBUG] Found 1 files
+07-04-2024 15:30:19.537 [Gauge] [INFO] Initializing concepts cache with 14 concepts
+07-04-2024 15:30:19.537 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:30:19.537 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:30:19.537 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:30:19.537 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:30:19.538 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:30:19.538 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:30:19.538 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:30:19.538 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:30:19.538 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:30:19.538 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:30:19.538 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:30:19.538 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:30:19.538 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:30:19.538 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:30:19.539 [Gauge] [INFO] Initializing specs cache with 1 specs
+07-04-2024 15:30:19.539 [Gauge] [DEBUG] Adding specs from C:\Users\mharu\Desktop\chrometest-master\specs\example.spec
+07-04-2024 15:30:19.539 [Gauge] [INFO] Initializing steps cache with 2 steps
+07-04-2024 15:30:19.539 [Gauge] [INFO] Gauge daemon initialized and listening on port: 60075
+07-04-2024 15:30:20.046 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Rastgele Model Seç"}
+07-04-2024 15:30:20.046 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Rastgele Model Seç" parameterizedStepValue:"Rastgele Model Seç"}}
+07-04-2024 15:30:23.456 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Rastgele Yıl Seç"}
+07-04-2024 15:30:23.456 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Rastgele Yıl Seç" parameterizedStepValue:"Rastgele Yıl Seç"}}
+07-04-2024 15:30:23.901 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Rastgele Marka Seç"}
+07-04-2024 15:30:23.901 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Rastgele Marka Seç" parameterizedStepValue:"Rastgele Marka Seç"}}
+07-04-2024 15:30:24.291 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Login Ol"}
+07-04-2024 15:30:24.291 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Login Ol" parameterizedStepValue:"Login Ol"}}
+07-04-2024 15:30:24.626 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Aracımın Fiyatını Merak Ediyorum"}
+07-04-2024 15:30:24.626 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Aracımın Fiyatını Merak Ediyorum" parameterizedStepValue:"Aracımın Fiyatını Merak Ediyorum"}}
+07-04-2024 15:30:26.038 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Rastgele Kasa Seç"}
+07-04-2024 15:30:26.038 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Rastgele Kasa Seç" parameterizedStepValue:"Rastgele Kasa Seç"}}
+07-04-2024 15:30:27.098 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Check if element <key> exists"}
+07-04-2024 15:30:27.099 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Check if element {} exists" parameterizedStepValue:"Check if element <key> exists" parameters:"key"}}
+07-04-2024 15:30:27.099 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Check if element <key> exists"}
+07-04-2024 15:30:27.099 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Check if element {} exists" parameterizedStepValue:"Check if element <key> exists" parameters:"key"}}
+07-04-2024 15:30:27.099 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Check if element <key> exists"}
+07-04-2024 15:30:27.099 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Check if element {} exists" parameterizedStepValue:"Check if element <key> exists" parameters:"key"}}
+07-04-2024 15:30:27.099 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Wait for element to load with key <key>"}
+07-04-2024 15:30:27.100 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Wait for element to load with key {}" parameterizedStepValue:"Wait for element to load with key <key>" parameters:"key"}}
+07-04-2024 15:30:27.100 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Wait for element to load with key <key>"}
+07-04-2024 15:30:27.100 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Wait for element to load with key {}" parameterizedStepValue:"Wait for element to load with key <key>" parameters:"key"}}
+07-04-2024 15:30:27.100 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Wait for element to load with key <key>"}
+07-04-2024 15:30:27.100 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Wait for element to load with key {}" parameterizedStepValue:"Wait for element to load with key <key>" parameters:"key"}}
+07-04-2024 15:30:27.100 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Element var mı kontrol et <key>"}
+07-04-2024 15:30:27.100 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Element var mı kontrol et {}" parameterizedStepValue:"Element var mı kontrol et <key>" parameters:"key"}}
+07-04-2024 15:30:27.100 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Element var mı kontrol et <key>"}
+07-04-2024 15:30:27.100 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Element var mı kontrol et {}" parameterizedStepValue:"Element var mı kontrol et <key>" parameters:"key"}}
+07-04-2024 15:30:27.100 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Elementin yüklenmesini bekle <key>"}
+07-04-2024 15:30:27.100 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Elementin yüklenmesini bekle {}" parameterizedStepValue:"Elementin yüklenmesini bekle <key>" parameters:"key"}}
+07-04-2024 15:30:27.100 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Element var mı kontrol et <key>"}
+07-04-2024 15:30:27.100 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Element var mı kontrol et {}" parameterizedStepValue:"Element var mı kontrol et <key>" parameters:"key"}}
+07-04-2024 15:30:27.100 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Elementin yüklenmesini bekle <key>"}
+07-04-2024 15:30:27.100 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Elementin yüklenmesini bekle {}" parameterizedStepValue:"Elementin yüklenmesini bekle <key>" parameters:"key"}}
+07-04-2024 15:30:27.100 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Wait <value> seconds"}
+07-04-2024 15:30:27.100 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Wait {} seconds" parameterizedStepValue:"Wait <value> seconds" parameters:"value"}}
+07-04-2024 15:30:27.100 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Wait <value> seconds"}
+07-04-2024 15:30:27.100 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Wait {} seconds" parameterizedStepValue:"Wait <value> seconds" parameters:"value"}}
+07-04-2024 15:30:27.101 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Wait <value> seconds"}
+07-04-2024 15:30:27.101 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Wait {} seconds" parameterizedStepValue:"Wait <value> seconds" parameters:"value"}}
+07-04-2024 15:30:27.101 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<int> saniye bekle"}
+07-04-2024 15:30:27.101 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} saniye bekle" parameterizedStepValue:"<int> saniye bekle" parameters:"int"}}
+07-04-2024 15:30:27.101 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<int> saniye bekle"}
+07-04-2024 15:30:27.101 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} saniye bekle" parameterizedStepValue:"<int> saniye bekle" parameters:"int"}}
+07-04-2024 15:30:27.101 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<int> saniye bekle"}
+07-04-2024 15:30:27.101 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} saniye bekle" parameterizedStepValue:"<int> saniye bekle" parameters:"int"}}
+07-04-2024 15:30:27.101 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Wait <value> milliseconds"}
+07-04-2024 15:30:27.101 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Wait {} milliseconds" parameterizedStepValue:"Wait <value> milliseconds" parameters:"value"}}
+07-04-2024 15:30:27.101 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Wait <value> milliseconds"}
+07-04-2024 15:30:27.101 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Wait {} milliseconds" parameterizedStepValue:"Wait <value> milliseconds" parameters:"value"}}
+07-04-2024 15:30:27.101 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<long> milisaniye bekle"}
+07-04-2024 15:30:27.101 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} milisaniye bekle" parameterizedStepValue:"<long> milisaniye bekle" parameters:"long"}}
+07-04-2024 15:30:27.101 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Wait <value> milliseconds"}
+07-04-2024 15:30:27.101 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Wait {} milliseconds" parameterizedStepValue:"Wait <value> milliseconds" parameters:"value"}}
+07-04-2024 15:30:27.101 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Wait for element then click <key>"}
+07-04-2024 15:30:27.101 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Wait for element then click {}" parameterizedStepValue:"Wait for element then click <key>" parameters:"key"}}
+07-04-2024 15:30:27.101 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Wait for element then click <key>"}
+07-04-2024 15:30:27.101 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Wait for element then click {}" parameterizedStepValue:"Wait for element then click <key>" parameters:"key"}}
+07-04-2024 15:30:27.101 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<long> milisaniye bekle"}
+07-04-2024 15:30:27.102 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} milisaniye bekle" parameterizedStepValue:"<long> milisaniye bekle" parameters:"long"}}
+07-04-2024 15:30:27.102 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Elementi bekle ve sonra tıkla <key>"}
+07-04-2024 15:30:27.102 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Elementi bekle ve sonra tıkla {}" parameterizedStepValue:"Elementi bekle ve sonra tıkla <key>" parameters:"key"}}
+07-04-2024 15:30:27.102 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Elementi bekle ve sonra tıkla <key>"}
+07-04-2024 15:30:27.102 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Elementi bekle ve sonra tıkla {}" parameterizedStepValue:"Elementi bekle ve sonra tıkla <key>" parameters:"key"}}
+07-04-2024 15:30:27.102 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Elementi bekle ve sonra tıkla <key>"}
+07-04-2024 15:30:27.102 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Elementi bekle ve sonra tıkla {}" parameterizedStepValue:"Elementi bekle ve sonra tıkla <key>" parameters:"key"}}
+07-04-2024 15:30:27.102 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Click to element <key>"}
+07-04-2024 15:30:27.102 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Click to element {}" parameterizedStepValue:"Click to element <key>" parameters:"key"}}
+07-04-2024 15:30:27.102 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Click to element <key>"}
+07-04-2024 15:30:27.102 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Click to element {}" parameterizedStepValue:"Click to element <key>" parameters:"key"}}
+07-04-2024 15:30:27.102 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Elementine tıkla <key>"}
+07-04-2024 15:30:27.102 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Elementine tıkla {}" parameterizedStepValue:"Elementine tıkla <key>" parameters:"key"}}
+07-04-2024 15:30:27.102 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Click to element <key>"}
+07-04-2024 15:30:27.102 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Click to element {}" parameterizedStepValue:"Click to element <key>" parameters:"key"}}
+07-04-2024 15:30:27.102 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Write value <text> to element <key>"}
+07-04-2024 15:30:27.102 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Write value {} to element {}" parameterizedStepValue:"Write value <text> to element <key>" parameters:"text" parameters:"key"}}
+07-04-2024 15:30:27.102 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Write value <text> to element <key>"}
+07-04-2024 15:30:27.102 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Write value {} to element {}" parameterizedStepValue:"Write value <text> to element <key>" parameters:"text" parameters:"key"}}
+07-04-2024 15:30:27.102 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Elementine tıkla <key>"}
+07-04-2024 15:30:27.102 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Elementine tıkla {}" parameterizedStepValue:"Elementine tıkla <key>" parameters:"key"}}
+07-04-2024 15:30:27.103 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<text> textini <key> elemente yaz"}
+07-04-2024 15:30:27.103 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} textini {} elemente yaz" parameterizedStepValue:"<text> textini <key> elemente yaz" parameters:"text" parameters:"key"}}
+07-04-2024 15:30:27.103 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<text> textini <key> elemente yaz"}
+07-04-2024 15:30:27.103 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} textini {} elemente yaz" parameterizedStepValue:"<text> textini <key> elemente yaz" parameters:"text" parameters:"key"}}
+07-04-2024 15:30:27.103 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<text> textini <key> elemente yaz"}
+07-04-2024 15:30:27.103 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} textini {} elemente yaz" parameterizedStepValue:"<text> textini <key> elemente yaz" parameters:"text" parameters:"key"}}
+07-04-2024 15:30:27.103 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Go to <url> address"}
+07-04-2024 15:30:27.103 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Go to {} address" parameterizedStepValue:"Go to <url> address" parameters:"url"}}
+07-04-2024 15:30:27.103 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Go to <url> address"}
+07-04-2024 15:30:27.103 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Go to {} address" parameterizedStepValue:"Go to <url> address" parameters:"url"}}
+07-04-2024 15:30:27.103 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<url> adresine git"}
+07-04-2024 15:30:27.103 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} adresine git" parameterizedStepValue:"<url> adresine git" parameters:"url"}}
+07-04-2024 15:30:27.103 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Go to <url> address"}
+07-04-2024 15:30:27.103 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Go to {} address" parameterizedStepValue:"Go to <url> address" parameters:"url"}}
+07-04-2024 15:30:27.103 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Write random value to element <key>"}
+07-04-2024 15:30:27.103 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Write random value to element {}" parameterizedStepValue:"Write random value to element <key>" parameters:"key"}}
+07-04-2024 15:30:27.103 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Write random value to element <key>"}
+07-04-2024 15:30:27.103 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Write random value to element {}" parameterizedStepValue:"Write random value to element <key>" parameters:"key"}}
+07-04-2024 15:30:27.103 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<url> adresine git"}
+07-04-2024 15:30:27.103 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} adresine git" parameterizedStepValue:"<url> adresine git" parameters:"url"}}
+07-04-2024 15:30:27.103 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<key> elementine random değer yaz"}
+07-04-2024 15:30:27.103 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} elementine random değer yaz" parameterizedStepValue:"<key> elementine random değer yaz" parameters:"key"}}
+07-04-2024 15:30:27.104 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<key> elementine random değer yaz"}
+07-04-2024 15:30:27.104 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} elementine random değer yaz" parameterizedStepValue:"<key> elementine random değer yaz" parameters:"key"}}
+07-04-2024 15:30:27.104 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<key> elementine random değer yaz"}
+07-04-2024 15:30:27.104 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} elementine random değer yaz" parameterizedStepValue:"<key> elementine random değer yaz" parameters:"key"}}
+07-04-2024 15:30:27.104 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<key> li element comparetexti içeriyor mu"}
+07-04-2024 15:30:27.104 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} li element comparetexti içeriyor mu" parameterizedStepValue:"<key> li element comparetexti içeriyor mu" parameters:"key"}}
+07-04-2024 15:30:27.104 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<key> li element comparetexti içeriyor mu"}
+07-04-2024 15:30:27.104 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} li element comparetexti içeriyor mu" parameterizedStepValue:"<key> li element comparetexti içeriyor mu" parameters:"key"}}
+07-04-2024 15:30:27.104 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<key> menu listesinden rasgele seç"}
+07-04-2024 15:30:27.104 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} menu listesinden rasgele seç" parameterizedStepValue:"<key> menu listesinden rasgele seç" parameters:"key"}}
+07-04-2024 15:30:27.104 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<key> li element comparetexti içeriyor mu"}
+07-04-2024 15:30:27.104 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} li element comparetexti içeriyor mu" parameterizedStepValue:"<key> li element comparetexti içeriyor mu" parameters:"key"}}
+07-04-2024 15:30:27.104 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<key> menu listesinden rasgele seç"}
+07-04-2024 15:30:27.104 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} menu listesinden rasgele seç" parameterizedStepValue:"<key> menu listesinden rasgele seç" parameters:"key"}}
+07-04-2024 15:30:27.104 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<key> elementine <text> değerini js ile yaz"}
+07-04-2024 15:30:27.104 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} elementine {} değerini js ile yaz" parameterizedStepValue:"<key> elementine <text> değerini js ile yaz" parameters:"key" parameters:"text"}}
+07-04-2024 15:30:27.104 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<key> elementine <text> değerini js ile yaz"}
+07-04-2024 15:30:27.104 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} elementine {} değerini js ile yaz" parameterizedStepValue:"<key> elementine <text> değerini js ile yaz" parameters:"key" parameters:"text"}}
+07-04-2024 15:30:27.105 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<key> elementine <text> değerini js ile yaz"}
+07-04-2024 15:30:27.105 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} elementine {} değerini js ile yaz" parameterizedStepValue:"<key> elementine <text> değerini js ile yaz" parameters:"key" parameters:"text"}}
+07-04-2024 15:30:27.105 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<int> saniye bekle."}
+07-04-2024 15:30:27.105 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} saniye bekle." parameterizedStepValue:"<int> saniye bekle." parameters:"int"}}
+07-04-2024 15:30:27.105 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<int> saniye bekle."}
+07-04-2024 15:30:27.105 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} saniye bekle." parameterizedStepValue:"<int> saniye bekle." parameters:"int"}}
+07-04-2024 15:30:27.105 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<text> textini <key> elementine yaz."}
+07-04-2024 15:30:27.105 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} textini {} elementine yaz." parameterizedStepValue:"<text> textini <key> elementine yaz." parameters:"text" parameters:"key"}}
+07-04-2024 15:30:27.105 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<text> textini <key> elementine yaz."}
+07-04-2024 15:30:27.105 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} textini {} elementine yaz." parameterizedStepValue:"<text> textini <key> elementine yaz." parameters:"text" parameters:"key"}}
+07-04-2024 15:30:27.105 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<int> saniye bekle."}
+07-04-2024 15:30:27.105 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} saniye bekle." parameterizedStepValue:"<int> saniye bekle." parameters:"int"}}
+07-04-2024 15:30:27.353 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Arabamcom Anasayfasına git"}
+07-04-2024 15:30:27.353 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arabamcom Anasayfasına git" parameterizedStepValue:"Arabamcom Anasayfasına git"}}
+07-04-2024 15:30:27.353 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Arama Kaç Para Sayfasına Git"}
+07-04-2024 15:30:27.353 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama Kaç Para Sayfasına Git" parameterizedStepValue:"Arama Kaç Para Sayfasına Git"}}
+07-04-2024 15:30:27.353 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Aracımın Fiyatını Merak Ediyorum"}
+07-04-2024 15:30:27.353 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Aracımın Fiyatını Merak Ediyorum" parameterizedStepValue:"Aracımın Fiyatını Merak Ediyorum"}}
+07-04-2024 15:30:27.353 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Login Ol"}
+07-04-2024 15:30:27.353 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Login Ol" parameterizedStepValue:"Login Ol"}}
+07-04-2024 15:30:27.353 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Rastgele Marka Seç"}
+07-04-2024 15:30:27.353 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Rastgele Marka Seç" parameterizedStepValue:"Rastgele Marka Seç"}}
+07-04-2024 15:30:27.353 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Rastgele Yıl Seç"}
+07-04-2024 15:30:27.353 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Rastgele Yıl Seç" parameterizedStepValue:"Rastgele Yıl Seç"}}
+07-04-2024 15:30:27.354 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Rastgele Model Seç"}
+07-04-2024 15:30:27.354 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Rastgele Model Seç" parameterizedStepValue:"Rastgele Model Seç"}}
+07-04-2024 15:30:27.354 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Rastgele Kasa Seç"}
+07-04-2024 15:30:27.354 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Rastgele Kasa Seç" parameterizedStepValue:"Rastgele Kasa Seç"}}
+07-04-2024 15:30:27.421 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Check if element \"HeaderLogoCheck\" exists"}
+07-04-2024 15:30:27.422 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Check if element {} exists" parameterizedStepValue:"Check if element <HeaderLogoCheck> exists" parameters:"HeaderLogoCheck"}}
+07-04-2024 15:30:27.710 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Wait \"1\" seconds"}
+07-04-2024 15:30:27.710 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Wait {} seconds" parameterizedStepValue:"Wait <1> seconds" parameters:"1"}}
+07-04-2024 15:30:28.079 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Check if element \"breadCrumb\" exists"}
+07-04-2024 15:30:28.079 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Check if element {} exists" parameterizedStepValue:"Check if element <breadCrumb> exists" parameters:"breadCrumb"}}
+07-04-2024 15:42:59.708 [Gauge] [INFO] Watching directory: C:\Users\mharu\Desktop\chrometest-master\specs
+07-04-2024 15:42:59.708 [Gauge] [DEBUG] Found 2 files
+07-04-2024 15:42:59.708 [Gauge] [INFO] Watching directory: C:\Users\mharu\Desktop\chrometest-master\specs\concepts
+07-04-2024 15:42:59.708 [Gauge] [DEBUG] Found 1 files
+07-04-2024 15:42:59.719 [Gauge] [INFO] Initializing concepts cache with 14 concepts
+07-04-2024 15:42:59.719 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:42:59.719 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:42:59.719 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:42:59.719 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:42:59.719 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:42:59.719 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:42:59.719 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:42:59.719 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:42:59.719 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:42:59.719 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:42:59.719 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:42:59.719 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:42:59.719 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:42:59.719 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:42:59.724 [Gauge] [INFO] Initializing specs cache with 1 specs
+07-04-2024 15:42:59.724 [Gauge] [DEBUG] Adding specs from C:\Users\mharu\Desktop\chrometest-master\specs\example.spec
+07-04-2024 15:42:59.724 [Gauge] [INFO] Initializing steps cache with 2 steps
+07-04-2024 15:42:59.725 [Gauge] [INFO] Gauge daemon initialized and listening on port: 63137
+07-04-2024 15:50:44.202 [Gauge] [INFO] Watching directory: C:\Users\mharu\Desktop\chrometest-master\specs
+07-04-2024 15:50:44.203 [Gauge] [DEBUG] Found 2 files
+07-04-2024 15:50:44.203 [Gauge] [INFO] Watching directory: C:\Users\mharu\Desktop\chrometest-master\specs\concepts
+07-04-2024 15:50:44.203 [Gauge] [DEBUG] Found 1 files
+07-04-2024 15:50:44.208 [Gauge] [INFO] Initializing concepts cache with 14 concepts
+07-04-2024 15:50:44.208 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:50:44.208 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:50:44.208 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:50:44.208 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:50:44.208 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:50:44.208 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:50:44.208 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:50:44.208 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:50:44.208 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:50:44.208 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:50:44.208 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:50:44.208 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:50:44.208 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:50:44.208 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:50:44.209 [Gauge] [INFO] Initializing specs cache with 1 specs
+07-04-2024 15:50:44.209 [Gauge] [DEBUG] Adding specs from C:\Users\mharu\Desktop\chrometest-master\specs\example.spec
+07-04-2024 15:50:44.209 [Gauge] [INFO] Initializing steps cache with 2 steps
+07-04-2024 15:50:44.209 [Gauge] [INFO] Gauge daemon initialized and listening on port: 63699
+07-04-2024 15:52:05.060 [Gauge] [INFO] Watching directory: C:\Users\mharu\Desktop\chrometest-master\specs
+07-04-2024 15:52:05.060 [Gauge] [DEBUG] Found 2 files
+07-04-2024 15:52:05.060 [Gauge] [INFO] Watching directory: C:\Users\mharu\Desktop\chrometest-master\specs\concepts
+07-04-2024 15:52:05.060 [Gauge] [DEBUG] Found 1 files
+07-04-2024 15:52:05.067 [Gauge] [INFO] Initializing concepts cache with 14 concepts
+07-04-2024 15:52:05.067 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:52:05.067 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:52:05.067 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:52:05.067 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:52:05.067 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:52:05.067 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:52:05.067 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:52:05.067 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:52:05.067 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:52:05.067 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:52:05.068 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:52:05.068 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:52:05.068 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:52:05.068 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:52:05.068 [Gauge] [INFO] Initializing specs cache with 1 specs
+07-04-2024 15:52:05.069 [Gauge] [DEBUG] Adding specs from C:\Users\mharu\Desktop\chrometest-master\specs\example.spec
+07-04-2024 15:52:05.069 [Gauge] [INFO] Initializing steps cache with 2 steps
+07-04-2024 15:52:05.069 [Gauge] [INFO] Gauge daemon initialized and listening on port: 63898
+07-04-2024 15:52:37.417 [Gauge] [INFO] Watching directory: C:\Users\mharu\Desktop\chrometest-master\specs
+07-04-2024 15:52:37.417 [Gauge] [DEBUG] Found 2 files
+07-04-2024 15:52:37.417 [Gauge] [INFO] Watching directory: C:\Users\mharu\Desktop\chrometest-master\specs\concepts
+07-04-2024 15:52:37.418 [Gauge] [DEBUG] Found 1 files
+07-04-2024 15:52:37.423 [Gauge] [INFO] Initializing concepts cache with 14 concepts
+07-04-2024 15:52:37.423 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:52:37.423 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:52:37.423 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:52:37.423 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:52:37.423 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:52:37.423 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:52:37.423 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:52:37.423 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:52:37.423 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:52:37.423 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:52:37.423 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:52:37.423 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:52:37.423 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:52:37.423 [Gauge] [DEBUG] Adding concepts from C:\Users\mharu\Desktop\chrometest-master\specs\concepts\Cpt.cpt
+07-04-2024 15:52:37.424 [Gauge] [INFO] Initializing specs cache with 1 specs
+07-04-2024 15:52:37.424 [Gauge] [DEBUG] Adding specs from C:\Users\mharu\Desktop\chrometest-master\specs\example.spec
+07-04-2024 15:52:37.424 [Gauge] [INFO] Initializing steps cache with 2 steps
+07-04-2024 15:52:37.424 [Gauge] [INFO] Gauge daemon initialized and listening on port: 64164

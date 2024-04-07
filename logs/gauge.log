@@ -1,0 +1,439 @@
+07-04-2024 15:29:05.228 [Gauge] [DEBUG] Created gauge_screenshots_dir at C:\Users\mharu\Desktop\chrometest-master\.gauge\screenshots
+07-04-2024 15:29:05.239 [Gauge] [DEBUG] Plugin java is already installed.
+07-04-2024 15:29:05.244 [Gauge] [DEBUG] Plugin xml-report is already installed.
+07-04-2024 15:29:05.246 [Gauge] [DEBUG] Parsing started.
+07-04-2024 15:29:05.246 [Gauge] [DEBUG] Started concepts parsing.
+07-04-2024 15:29:05.254 [Gauge] [DEBUG] 14 concepts parsing completed.
+07-04-2024 15:29:05.254 [Gauge] [DEBUG] Started specifications parsing.
+07-04-2024 15:29:05.255 [Gauge] [DEBUG] 1 specifications parsing completed.
+07-04-2024 15:29:05.256 [Gauge] [DEBUG] Parsing completed.
+07-04-2024 15:29:05.601 [java] [DEBUG] ***** Printing Properties/Env Values *****
+07-04-2024 15:29:05.601 [java] [DEBUG] PATH: C:\Users\mharu\Desktop\WINDOWS.X64_193000_db_home\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Gauge\bin;C:\Program Files\apache-maven-3.8.2\bin;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\mharu\AppData\Local\Microsoft\WindowsApps;C:\Users\mharu\AppData\Local\GitHubDesktop\bin;C:\Program Files\apache-maven-3.8.2\bin;;C:\Users\mharu\AppData\Roaming\gauge\plugins\screenshot\0.1.0
+07-04-2024 15:29:05.601 [java] [DEBUG] JAVA_HOME: C:\Program Files\Java\jdk-21
+07-04-2024 15:29:05.601 [java] [DEBUG] gauge_project_root: C:\Users\mharu\Desktop\chrometest-master
+07-04-2024 15:29:05.601 [java] [DEBUG] gauge_parallel_streams_count: 12
+07-04-2024 15:29:05.601 [java] [DEBUG] gauge_reports_dir: reports
+07-04-2024 15:29:05.601 [java] [DEBUG] overwrite_reports: true
+07-04-2024 15:29:05.601 [java] [DEBUG] logs_directory: logs
+07-04-2024 15:29:05.601 [java] [DEBUG] enable_multithreading: 
+07-04-2024 15:29:05.601 [java] [DEBUG] gauge_specs_dir: specs
+07-04-2024 15:29:05.601 [java] [DEBUG] csv_delimiter: ,
+07-04-2024 15:29:05.601 [java] [DEBUG] gauge_java_home: 
+07-04-2024 15:29:05.601 [java] [DEBUG] gauge_custom_build_path: 
+07-04-2024 15:29:05.601 [java] [DEBUG] gauge_additional_libs: libs/*
+07-04-2024 15:29:05.601 [java] [DEBUG] gauge_jvm_args: 
+07-04-2024 15:29:05.601 [java] [DEBUG] gauge_custom_compile_dir: 
+07-04-2024 15:29:05.601 [java] [DEBUG] gauge_clear_state_level: scenario
+07-04-2024 15:29:05.601 [java] [DEBUG] ***** END *****
+07-04-2024 15:29:06.010 [Gauge] [DEBUG] Checking updates...
+07-04-2024 15:29:06.011 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+07-04-2024 15:29:06.237 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+07-04-2024 15:29:06.300 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+07-04-2024 15:29:06.366 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/spectacle?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+07-04-2024 15:29:06.425 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+07-04-2024 15:29:08.669 [java] [DEBUG] classpath set to C:\Program Files\Java\jdk-15.0.2!\java.base;C:\Program Files\Java\jdk-15.0.2!\java.compiler;C:\Program Files\Java\jdk-15.0.2!\java.datatransfer;C:\Program Files\Java\jdk-15.0.2!\java.desktop;C:\Program Files\Java\jdk-15.0.2!\java.instrument;C:\Program Files\Java\jdk-15.0.2!\java.logging;C:\Program Files\Java\jdk-15.0.2!\java.management;C:\Program Files\Java\jdk-15.0.2!\java.management.rmi;C:\Program Files\Java\jdk-15.0.2!\java.naming;C:\Program Files\Java\jdk-15.0.2!\java.net.http;C:\Program Files\Java\jdk-15.0.2!\java.prefs;C:\Program Files\Java\jdk-15.0.2!\java.rmi;C:\Program Files\Java\jdk-15.0.2!\java.scripting;C:\Program Files\Java\jdk-15.0.2!\java.se;C:\Program Files\Java\jdk-15.0.2!\java.security.jgss;C:\Program Files\Java\jdk-15.0.2!\java.security.sasl;C:\Program Files\Java\jdk-15.0.2!\java.smartcardio;C:\Program Files\Java\jdk-15.0.2!\java.sql;C:\Program Files\Java\jdk-15.0.2!\java.sql.rowset;C:\Program Files\Java\jdk-15.0.2!\java.transaction.xa;C:\Program Files\Java\jdk-15.0.2!\java.xml;C:\Program Files\Java\jdk-15.0.2!\java.xml.crypto;C:\Program Files\Java\jdk-15.0.2!\jdk.accessibility;C:\Program Files\Java\jdk-15.0.2!\jdk.aot;C:\Program Files\Java\jdk-15.0.2!\jdk.attach;C:\Program Files\Java\jdk-15.0.2!\jdk.charsets;C:\Program Files\Java\jdk-15.0.2!\jdk.compiler;C:\Program Files\Java\jdk-15.0.2!\jdk.crypto.cryptoki;C:\Program Files\Java\jdk-15.0.2!\jdk.crypto.ec;C:\Program Files\Java\jdk-15.0.2!\jdk.crypto.mscapi;C:\Program Files\Java\jdk-15.0.2!\jdk.dynalink;C:\Program Files\Java\jdk-15.0.2!\jdk.editpad;C:\Program Files\Java\jdk-15.0.2!\jdk.hotspot.agent;C:\Program Files\Java\jdk-15.0.2!\jdk.httpserver;C:\Program Files\Java\jdk-15.0.2!\jdk.incubator.foreign;C:\Program Files\Java\jdk-15.0.2!\jdk.incubator.jpackage;C:\Program Files\Java\jdk-15.0.2!\jdk.internal.ed;C:\Program Files\Java\jdk-15.0.2!\jdk.internal.jvmstat;C:\Program Files\Java\jdk-15.0.2!\jdk.internal.le;C:\Program Files\Java\jdk-15.0.2!\jdk.internal.opt;C:\Program Files\Java\jdk-15.0.2!\jdk.internal.vm.ci;C:\Program Files\Java\jdk-15.0.2!\jdk.internal.vm.compiler;C:\Program Files\Java\jdk-15.0.2!\jdk.internal.vm.compiler.management;C:\Program Files\Java\jdk-15.0.2!\jdk.jartool;C:\Program Files\Java\jdk-15.0.2!\jdk.javadoc;C:\Program Files\Java\jdk-15.0.2!\jdk.jcmd;C:\Program Files\Java\jdk-15.0.2!\jdk.jconsole;C:\Program Files\Java\jdk-15.0.2!\jdk.jdeps;C:\Program Files\Java\jdk-15.0.2!\jdk.jdi;C:\Program Files\Java\jdk-15.0.2!\jdk.jdwp.agent;C:\Program Files\Java\jdk-15.0.2!\jdk.jfr;C:\Program Files\Java\jdk-15.0.2!\jdk.jlink;C:\Program Files\Java\jdk-15.0.2!\jdk.jshell;C:\Program Files\Java\jdk-15.0.2!\jdk.jsobject;C:\Program Files\Java\jdk-15.0.2!\jdk.jstatd;C:\Program Files\Java\jdk-15.0.2!\jdk.localedata;C:\Program Files\Java\jdk-15.0.2!\jdk.management;C:\Program Files\Java\jdk-15.0.2!\jdk.management.agent;C:\Program Files\Java\jdk-15.0.2!\jdk.management.jfr;C:\Program Files\Java\jdk-15.0.2!\jdk.naming.dns;C:\Program Files\Java\jdk-15.0.2!\jdk.naming.rmi;C:\Program Files\Java\jdk-15.0.2!\jdk.net;C:\Program Files\Java\jdk-15.0.2!\jdk.nio.mapmode;C:\Program Files\Java\jdk-15.0.2!\jdk.sctp;C:\Program Files\Java\jdk-15.0.2!\jdk.security.auth;C:\Program Files\Java\jdk-15.0.2!\jdk.security.jgss;C:\Program Files\Java\jdk-15.0.2!\jdk.unsupported;C:\Program Files\Java\jdk-15.0.2!\jdk.unsupported.desktop;C:\Program Files\Java\jdk-15.0.2!\jdk.xml.dom;C:\Program Files\Java\jdk-15.0.2!\jdk.zipfs;C:\Users\mharu\Desktop\chrometest-master\target\test-classes;C:\Users\mharu\Desktop\chrometest-master\target\classes;C:\Users\mharu\.m2\repository\com\thoughtworks\gauge\gauge-java\0.10.3\gauge-java-0.10.3.jar;C:\Users\mharu\.m2\repository\org\assertj\assertj-core\3.24.2\assertj-core-3.24.2.jar;C:\Users\mharu\.m2\repository\net\bytebuddy\byte-buddy\1.12.21\byte-buddy-1.12.21.jar;C:\Users\mharu\.m2\repository\org\reflections\reflections\0.10.2\reflections-0.10.2.jar;C:\Users\mharu\.m2\repository\org\javassist\javassist\3.28.0-GA\javassist-3.28.0-GA.jar;C:\Users\mharu\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\mharu\.m2\repository\com\github\javaparser\javaparser-core\3.25.6\javaparser-core-3.25.6.jar;C:\Users\mharu\.m2\repository\commons-io\commons-io\2.15.0\commons-io-2.15.0.jar;C:\Users\mharu\.m2\repository\org\apache\commons\commons-lang3\3.13.0\commons-lang3-3.13.0.jar;C:\Users\mharu\.m2\repository\org\json\json\20231013\json-20231013.jar;C:\Users\mharu\.m2\repository\com\google\protobuf\protobuf-java\3.25.0\protobuf-java-3.25.0.jar;C:\Users\mharu\.m2\repository\io\grpc\grpc-api\1.59.0\grpc-api-1.59.0.jar;C:\Users\mharu\.m2\repository\com\google\errorprone\error_prone_annotations\2.20.0\error_prone_annotations-2.20.0.jar;C:\Users\mharu\.m2\repository\io\grpc\grpc-netty-shaded\1.59.0\grpc-netty-shaded-1.59.0.jar;C:\Users\mharu\.m2\repository\io\perfmark\perfmark-api\0.26.0\perfmark-api-0.26.0.jar;C:\Users\mharu\.m2\repository\io\grpc\grpc-core\1.59.0\grpc-core-1.59.0.jar;C:\Users\mharu\.m2\repository\com\google\android\annotations\4.1.1.4\annotations-4.1.1.4.jar;C:\Users\mharu\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.23\animal-sniffer-annotations-1.23.jar;C:\Users\mharu\.m2\repository\io\grpc\grpc-context\1.59.0\grpc-context-1.59.0.jar;C:\Users\mharu\.m2\repository\io\grpc\grpc-util\1.59.0\grpc-util-1.59.0.jar;C:\Users\mharu\.m2\repository\io\grpc\grpc-protobuf\1.59.0\grpc-protobuf-1.59.0.jar;C:\Users\mharu\.m2\repository\com\google\api\grpc\proto-google-common-protos\2.22.0\proto-google-common-protos-2.22.0.jar;C:\Users\mharu\.m2\repository\io\grpc\grpc-protobuf-lite\1.59.0\grpc-protobuf-lite-1.59.0.jar;C:\Users\mharu\.m2\repository\io\grpc\grpc-stub\1.59.0\grpc-stub-1.59.0.jar;C:\Users\mharu\.m2\repository\javax\annotation\javax.annotation-api\1.3.2\javax.annotation-api-1.3.2.jar;C:\Users\mharu\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\mharu\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\mharu\.m2\repository\org\seleniumhq\selenium\selenium-java\4.16.1\selenium-java-4.16.1.jar;C:\Users\mharu\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\4.16.1\selenium-chrome-driver-4.16.1.jar;C:\Users\mharu\.m2\repository\com\google\auto\service\auto-service-annotations\1.1.1\auto-service-annotations-1.1.1.jar;C:\Users\mharu\.m2\repository\org\seleniumhq\selenium\selenium-chromium-driver\4.16.1\selenium-chromium-driver-4.16.1.jar;C:\Users\mharu\.m2\repository\org\seleniumhq\selenium\selenium-json\4.16.1\selenium-json-4.16.1.jar;C:\Users\mharu\.m2\repository\org\seleniumhq\selenium\selenium-manager\4.16.1\selenium-manager-4.16.1.jar;C:\Users\mharu\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v118\4.16.1\selenium-devtools-v118-4.16.1.jar;C:\Users\mharu\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v119\4.16.1\selenium-devtools-v119-4.16.1.jar;C:\Users\mharu\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v120\4.16.1\selenium-devtools-v120-4.16.1.jar;C:\Users\mharu\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v85\4.16.1\selenium-devtools-v85-4.16.1.jar;C:\Users\mharu\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\4.16.1\selenium-edge-driver-4.16.1.jar;C:\Users\mharu\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\4.16.1\selenium-firefox-driver-4.16.1.jar;C:\Users\mharu\.m2\repository\org\seleniumhq\selenium\selenium-http\4.16.1\selenium-http-4.16.1.jar;C:\Users\mharu\.m2\repository\dev\failsafe\failsafe\3.3.2\failsafe-3.3.2.jar;C:\Users\mharu\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\4.16.1\selenium-ie-driver-4.16.1.jar;C:\Users\mharu\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\4.16.1\selenium-remote-driver-4.16.1.jar;C:\Users\mharu\.m2\repository\com\google\guava\guava\32.1.2-jre\guava-32.1.2-jre.jar;C:\Users\mharu\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\mharu\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\mharu\.m2\repository\org\checkerframework\checker-qual\3.33.0\checker-qual-3.33.0.jar;C:\Users\mharu\.m2\repository\com\google\j2objc\j2objc-annotations\2.8\j2objc-annotations-2.8.jar;C:\Users\mharu\.m2\repository\io\opentelemetry\opentelemetry-api\1.28.0\opentelemetry-api-1.28.0.jar;C:\Users\mharu\.m2\repository\io\opentelemetry\opentelemetry-context\1.28.0\opentelemetry-context-1.28.0.jar;C:\Users\mharu\.m2\repository\io\opentelemetry\opentelemetry-exporter-logging\1.28.0\opentelemetry-exporter-logging-1.28.0.jar;C:\Users\mharu\.m2\repository\io\opentelemetry\opentelemetry-sdk-metrics\1.28.0\opentelemetry-sdk-metrics-1.28.0.jar;C:\Users\mharu\.m2\repository\io\opentelemetry\opentelemetry-extension-incubator\1.28.0-alpha\opentelemetry-extension-incubator-1.28.0-alpha.jar;C:\Users\mharu\.m2\repository\io\opentelemetry\opentelemetry-sdk-logs\1.28.0\opentelemetry-sdk-logs-1.28.0.jar;C:\Users\mharu\.m2\repository\io\opentelemetry\opentelemetry-sdk-common\1.28.0\opentelemetry-sdk-common-1.28.0.jar;C:\Users\mharu\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure-spi\1.28.0\opentelemetry-sdk-extension-autoconfigure-spi-1.28.0.jar;C:\Users\mharu\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure\1.28.0\opentelemetry-sdk-extension-autoconfigure-1.28.0.jar;C:\Users\mharu\.m2\repository\io\opentelemetry\opentelemetry-api-events\1.28.0-alpha\opentelemetry-api-events-1.28.0-alpha.jar;C:\Users\mharu\.m2\repository\io\opentelemetry\opentelemetry-sdk-trace\1.28.0\opentelemetry-sdk-trace-1.28.0.jar;C:\Users\mharu\.m2\repository\io\opentelemetry\opentelemetry-sdk\1.28.0\opentelemetry-sdk-1.28.0.jar;C:\Users\mharu\.m2\repository\io\opentelemetry\opentelemetry-semconv\1.28.0-alpha\opentelemetry-semconv-1.28.0-alpha.jar;C:\Users\mharu\.m2\repository\org\seleniumhq\selenium\selenium-os\4.16.1\selenium-os-4.16.1.jar;C:\Users\mharu\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\mharu\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\4.16.1\selenium-safari-driver-4.16.1.jar;C:\Users\mharu\.m2\repository\org\seleniumhq\selenium\selenium-support\4.16.1\selenium-support-4.16.1.jar;C:\Users\mharu\.m2\repository\io\github\bonigarcia\webdrivermanager\4.0.0\webdrivermanager-4.0.0.jar;C:\Users\mharu\.m2\repository\com\google\code\gson\gson\2.8.6\gson-2.8.6.jar;C:\Users\mharu\.m2\repository\org\apache\httpcomponents\client5\httpclient5\5.0\httpclient5-5.0.jar;C:\Users\mharu\.m2\repository\org\apache\httpcomponents\core5\httpcore5\5.0\httpcore5-5.0.jar;C:\Users\mharu\.m2\repository\org\apache\httpcomponents\core5\httpcore5-h2\5.0\httpcore5-h2-5.0.jar;C:\Users\mharu\.m2\repository\commons-codec\commons-codec\1.13\commons-codec-1.13.jar;C:\Users\mharu\.m2\repository\org\rauschig\jarchivelib\1.0.0\jarchivelib-1.0.0.jar;C:\Users\mharu\.m2\repository\org\apache\commons\commons-compress\1.18\commons-compress-1.18.jar;C:\Users\mharu\.m2\repository\org\jsoup\jsoup\1.13.1\jsoup-1.13.1.jar;C:\Users\mharu\.m2\repository\org\seleniumhq\selenium\selenium-api\4.16.1\selenium-api-4.16.1.jar;C:\Users\mharu\.m2\repository\mysql\mysql-connector-java\8.0.21\mysql-connector-java-8.0.21.jar;C:\Users\mharu\.m2\repository\com\microsoft\sqlserver\mssql-jdbc\8.2.2.jre11\mssql-jdbc-8.2.2.jre11.jar;C:\Users\mharu\.m2\repository\org\slf4j\slf4j-log4j12\1.7.30\slf4j-log4j12-1.7.30.jar;C:\Users\mharu\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;C:\Users\mharu\.m2\repository\org\slf4j\slf4j-api\1.7.30\slf4j-api-1.7.30.jar;C:\Users\mharu\.m2\repository\org\hamcrest\hamcrest-all\1.3\hamcrest-all-1.3.jar;C:\Users\mharu\.m2\repository\org\hamcrest\hamcrest-junit\2.0.0.0\hamcrest-junit-2.0.0.0.jar;C:\Users\mharu\.m2\repository\org\hamcrest\java-hamcrest\2.0.0.0\java-hamcrest-2.0.0.0.jar;C:\Users\mharu\.m2\repository\io\rest-assured\rest-assured\3.3.0\rest-assured-3.3.0.jar;C:\Users\mharu\.m2\repository\org\codehaus\groovy\groovy\2.4.15\groovy-2.4.15.jar;C:\Users\mharu\.m2\repository\org\codehaus\groovy\groovy-xml\2.4.15\groovy-xml-2.4.15.jar;C:\Users\mharu\.m2\repository\org\apache\httpcomponents\httpclient\4.5.3\httpclient-4.5.3.jar;C:\Users\mharu\.m2\repository\org\apache\httpcomponents\httpcore\4.4.6\httpcore-4.4.6.jar;C:\Users\mharu\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\mharu\.m2\repository\org\apache\httpcomponents\httpmime\4.5.3\httpmime-4.5.3.jar;C:\Users\mharu\.m2\repository\org\hamcrest\hamcrest-library\1.3\hamcrest-library-1.3.jar;C:\Users\mharu\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\mharu\.m2\repository\io\rest-assured\json-path\3.3.0\json-path-3.3.0.jar;C:\Users\mharu\.m2\repository\org\codehaus\groovy\groovy-json\2.4.15\groovy-json-2.4.15.jar;C:\Users\mharu\.m2\repository\io\rest-assured\rest-assured-common\3.3.0\rest-assured-common-3.3.0.jar;C:\Users\mharu\.m2\repository\io\rest-assured\xml-path\3.3.0\xml-path-3.3.0.jar;C:\Users\mharu\.m2\repository\javax\xml\bind\jaxb-api\2.2.12\jaxb-api-2.2.12.jar;C:\Users\mharu\.m2\repository\com\sun\xml\bind\jaxb-osgi\2.2.10\jaxb-osgi-2.2.10.jar;C:\Users\mharu\.m2\repository\org\apache\sling\org.apache.sling.javax.activation\0.1.0\org.apache.sling.javax.activation-0.1.0.jar;C:\Users\mharu\.m2\repository\javax\activation\activation\1.1.1\activation-1.1.1.jar
+07-04-2024 15:29:08.706 [java] [DEBUG] found java executable in C:\Program Files\Java\jdk-21\bin\java.exe
+07-04-2024 15:29:08.706 [java] [DEBUG] running - C:\Program Files\Java\jdk-21\bin\java.exe [-Dfile.encoding=UTF-8 com.thoughtworks.gauge.GaugeRuntime --start]
+07-04-2024 15:29:08.706 [java] [DEBUG] stdout/stderr is logged to logs\18892-java.exe.out
+07-04-2024 15:29:08.856 [java] [DEBUG] multithreading is set to false
+07-04-2024 15:29:09.217 [java] [DEBUG] Using reflection to scan dependencies for gauge implementations...
+07-04-2024 15:29:09.361 [java] [ERROR] SLF4J: A number (20) of logging calls during the initialization phase have been intercepted and are
+07-04-2024 15:29:09.361 [java] [ERROR] SLF4J: now being replayed. These are subject to the filtering rules of the underlying logging system.
+07-04-2024 15:29:09.361 [java] [ERROR] SLF4J: See also http://www.slf4j.org/codes.html#replay
+07-04-2024 15:29:10.033 [java] [DEBUG] gauge-java took 1152milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value.
+07-04-2024 15:29:10.033 [java] [DEBUG] run 'gauge config runner_connection_timeout' and verify that it is < 1152
+07-04-2024 15:29:10.033 [java] [DEBUG] starting gRPC server...
+07-04-2024 15:29:10.185 [java] [DEBUG] started gRPC server on port 59722
+07-04-2024 15:29:10.186 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 59722
+07-04-2024 15:29:10.319 [Gauge] [DEBUG] Successfully made the connection with runner with port: 59722
+07-04-2024 15:29:10.319 [Gauge] [DEBUG] Validation started.
+07-04-2024 15:29:10.537 [java] [INFO] 2024-04-07 15:29:10 INFO  Reflections:219 scan - Reflections took 1173 ms to scan 172 urls, producing 5674 keys and 34040 values
+07-04-2024 15:29:11.063 [java] [DEBUG] Scanning packages for steps
+07-04-2024 15:29:11.072 [java] [DEBUG] Comparing 'com.arabamcom.step.BaseSteps.goToUrl' and 'com.arabamcom.step.BaseSteps.goToUrl'
+07-04-2024 15:29:11.074 [java] [DEBUG] Found Go to {} address in current project scope.
+07-04-2024 15:29:11.074 [java] [DEBUG] Comparing 'com.arabamcom.step.BaseSteps.goToUrl' and 'com.arabamcom.step.BaseSteps.goToUrl'
+07-04-2024 15:29:11.074 [java] [DEBUG] Found {} adresine git in current project scope.
+07-04-2024 15:29:11.074 [java] [DEBUG] Comparing 'com.arabamcom.step.BaseSteps.waitByMilliSeconds' and 'com.arabamcom.step.BaseSteps.waitByMilliSeconds'
+07-04-2024 15:29:11.074 [java] [DEBUG] Found Wait {} milliseconds in current project scope.
+07-04-2024 15:29:11.074 [java] [DEBUG] Comparing 'com.arabamcom.step.BaseSteps.waitByMilliSeconds' and 'com.arabamcom.step.BaseSteps.waitByMilliSeconds'
+07-04-2024 15:29:11.074 [java] [DEBUG] Found {} milisaniye bekle in current project scope.
+07-04-2024 15:29:11.074 [java] [DEBUG] Comparing 'com.arabamcom.step.StepImplementation.sendKeysText' and 'com.arabamcom.step.StepImplementation.sendKeysText'
+07-04-2024 15:29:11.074 [java] [DEBUG] Found {} textini {} elementine yaz. in current project scope.
+07-04-2024 15:29:11.075 [java] [DEBUG] Comparing 'com.arabamcom.step.BaseSteps.writeToKeyWithJavaScript' and 'com.arabamcom.step.BaseSteps.writeToKeyWithJavaScript'
+07-04-2024 15:29:11.075 [java] [DEBUG] Found {} elementine {} de�erini js ile yaz in current project scope.
+07-04-2024 15:29:11.075 [java] [DEBUG] Comparing 'com.arabamcom.step.StepImplementation.waitSec' and 'com.arabamcom.step.StepImplementation.waitSec'
+07-04-2024 15:29:11.075 [java] [DEBUG] Found {} saniye bekle. in current project scope.
+07-04-2024 15:29:11.075 [java] [DEBUG] Comparing 'com.arabamcom.step.BaseSteps.writeRandomValueToElement' and 'com.arabamcom.step.BaseSteps.writeRandomValueToElement'
+07-04-2024 15:29:11.075 [java] [DEBUG] Found Write random value to element {} in current project scope.
+07-04-2024 15:29:11.075 [java] [DEBUG] Comparing 'com.arabamcom.step.BaseSteps.writeRandomValueToElement' and 'com.arabamcom.step.BaseSteps.writeRandomValueToElement'
+07-04-2024 15:29:11.075 [java] [DEBUG] Found {} elementine random de�er yaz in current project scope.
+07-04-2024 15:29:11.075 [java] [DEBUG] Comparing 'com.arabamcom.step.BaseSteps.ssendKeys' and 'com.arabamcom.step.BaseSteps.ssendKeys'
+07-04-2024 15:29:11.075 [java] [DEBUG] Found Write value {} to element {} in current project scope.
+07-04-2024 15:29:11.075 [java] [DEBUG] Comparing 'com.arabamcom.step.BaseSteps.ssendKeys' and 'com.arabamcom.step.BaseSteps.ssendKeys'
+07-04-2024 15:29:11.075 [java] [DEBUG] Found {} textini {} elemente yaz in current project scope.
+07-04-2024 15:29:11.076 [java] [DEBUG] Comparing 'com.arabamcom.step.BaseSteps.waitBySeconds' and 'com.arabamcom.step.BaseSteps.waitBySeconds'
+07-04-2024 15:29:11.076 [java] [DEBUG] Found Wait {} seconds in current project scope.
+07-04-2024 15:29:11.076 [java] [DEBUG] Comparing 'com.arabamcom.step.BaseSteps.waitBySeconds' and 'com.arabamcom.step.BaseSteps.waitBySeconds'
+07-04-2024 15:29:11.076 [java] [DEBUG] Found {} saniye bekle in current project scope.
+07-04-2024 15:29:11.076 [java] [DEBUG] Comparing 'com.arabamcom.step.BaseSteps.clickElement' and 'com.arabamcom.step.BaseSteps.clickElement'
+07-04-2024 15:29:11.076 [java] [DEBUG] Found Click to element {} in current project scope.
+07-04-2024 15:29:11.076 [java] [DEBUG] Comparing 'com.arabamcom.step.BaseSteps.clickElement' and 'com.arabamcom.step.BaseSteps.clickElement'
+07-04-2024 15:29:11.076 [java] [DEBUG] Found Elementine t�kla {} in current project scope.
+07-04-2024 15:29:11.076 [java] [DEBUG] Comparing 'com.arabamcom.step.BaseSteps.checkElementExistsThenClick' and 'com.arabamcom.step.BaseSteps.checkElementExistsThenClick'
+07-04-2024 15:29:11.076 [java] [DEBUG] Found Wait for element then click {} in current project scope.
+07-04-2024 15:29:11.076 [java] [DEBUG] Comparing 'com.arabamcom.step.BaseSteps.checkElementExistsThenClick' and 'com.arabamcom.step.BaseSteps.checkElementExistsThenClick'
+07-04-2024 15:29:11.076 [java] [DEBUG] Found Elementi bekle ve sonra t�kla {} in current project scope.
+07-04-2024 15:29:11.076 [java] [DEBUG] Comparing 'com.arabamcom.step.BaseSteps.checkelementtext' and 'com.arabamcom.step.BaseSteps.checkelementtext'
+07-04-2024 15:29:11.076 [java] [DEBUG] Found {} li element comparetexti i�eriyor mu in current project scope.
+07-04-2024 15:29:11.076 [java] [DEBUG] Comparing 'com.arabamcom.step.BaseSteps.chooseRandomElementFromList' and 'com.arabamcom.step.BaseSteps.chooseRandomElementFromList'
+07-04-2024 15:29:11.076 [java] [DEBUG] Found {} menu listesinden rasgele se� in current project scope.
+07-04-2024 15:29:11.077 [java] [DEBUG] Comparing 'com.arabamcom.step.BaseSteps.getElementWithKeyIfExists' and 'com.arabamcom.step.BaseSteps.getElementWithKeyIfExists'
+07-04-2024 15:29:11.077 [java] [DEBUG] Found Check if element {} exists in current project scope.
+07-04-2024 15:29:11.077 [java] [DEBUG] Comparing 'com.arabamcom.step.BaseSteps.getElementWithKeyIfExists' and 'com.arabamcom.step.BaseSteps.getElementWithKeyIfExists'
+07-04-2024 15:29:11.077 [java] [DEBUG] Found Wait for element to load with key {} in current project scope.
+07-04-2024 15:29:11.077 [java] [DEBUG] Comparing 'com.arabamcom.step.BaseSteps.getElementWithKeyIfExists' and 'com.arabamcom.step.BaseSteps.getElementWithKeyIfExists'
+07-04-2024 15:29:11.077 [java] [DEBUG] Found Element var m� kontrol et {} in current project scope.
+07-04-2024 15:29:11.077 [java] [DEBUG] Comparing 'com.arabamcom.step.BaseSteps.getElementWithKeyIfExists' and 'com.arabamcom.step.BaseSteps.getElementWithKeyIfExists'
+07-04-2024 15:29:11.078 [java] [DEBUG] Found Elementin y�klenmesini bekle {} in current project scope.
+07-04-2024 15:29:11.078 [java] [DEBUG] Scanning packages for hooks
+07-04-2024 15:29:11.084 [java] [DEBUG] Scanned steps (using static parsing + reflections): 
+07-04-2024 15:29:11.084 [java] [DEBUG] 	Elementin y�klenmesini bekle {} : public WebElement getElementWithKeyIfExists(String key)
+07-04-2024 15:29:11.084 [java] [DEBUG] 	Wait {} milliseconds : public void waitByMilliSeconds(long milliseconds)
+07-04-2024 15:29:11.084 [java] [DEBUG] 	Write random value to element {} : public void writeRandomValueToElement(String key)
+07-04-2024 15:29:11.084 [java] [DEBUG] 	{} menu listesinden rasgele se� : public void chooseRandomElementFromList(String key) throws InterruptedException
+07-04-2024 15:29:11.085 [java] [DEBUG] 	{} elementine random de�er yaz : public void writeRandomValueToElement(String key)
+07-04-2024 15:29:11.085 [java] [DEBUG] 	Elementi bekle ve sonra t�kla {} : public void checkElementExistsThenClick(String key)
+07-04-2024 15:29:11.085 [java] [DEBUG] 	Click to element {} : public void clickElement(String key)
+07-04-2024 15:29:11.085 [java] [DEBUG] 	{} milisaniye bekle : public void waitByMilliSeconds(long milliseconds)
+07-04-2024 15:29:11.085 [java] [DEBUG] 	{} adresine git : public void goToUrl(String url)
+07-04-2024 15:29:11.085 [java] [DEBUG] 	{} li element comparetexti i�eriyor mu : public void checkelementtext(String key)
+07-04-2024 15:29:11.085 [java] [DEBUG] 	Wait for element to load with key {} : public WebElement getElementWithKeyIfExists(String key)
+07-04-2024 15:29:11.085 [java] [DEBUG] 	{} saniye bekle. : public void waitSec(�nt seconds) throws InterruptedException
+07-04-2024 15:29:11.085 [java] [DEBUG] 	Element var m� kontrol et {} : public WebElement getElementWithKeyIfExists(String key)
+07-04-2024 15:29:11.085 [java] [DEBUG] 	{} saniye bekle : public void waitBySeconds(�nt seconds)
+07-04-2024 15:29:11.085 [java] [DEBUG] 	Wait for element then click {} : public void checkElementExistsThenClick(String key)
+07-04-2024 15:29:11.085 [java] [DEBUG] 	{} textini {} elementine yaz. : public void sendKeysText(String text, String key)
+07-04-2024 15:29:11.085 [java] [DEBUG] 	{} elementine {} de�erini js ile yaz : public void writeToKeyWithJavaScript(String key, String text)
+07-04-2024 15:29:11.085 [java] [DEBUG] 	Elementine t�kla {} : public void clickElement(String key)
+07-04-2024 15:29:11.085 [java] [DEBUG] 	{} textini {} elemente yaz : public void ssendKeys(String text, String key)
+07-04-2024 15:29:11.085 [java] [DEBUG] 	Go to {} address : public void goToUrl(String url)
+07-04-2024 15:29:11.085 [java] [DEBUG] 	Check if element {} exists : public WebElement getElementWithKeyIfExists(String key)
+07-04-2024 15:29:11.085 [java] [DEBUG] 	Wait {} seconds : public void waitBySeconds(�nt seconds)
+07-04-2024 15:29:11.085 [java] [DEBUG] 	Write value {} to element {} : public void ssendKeys(String text, String key)
+07-04-2024 15:29:11.531 [java] [INFO] 2024-04-07 15:29:11 INFO  Reflections:219 scan - Reflections took 437 ms to scan 172 urls, producing 5596 keys and 24936 values
+07-04-2024 15:29:11.598 [Gauge] [DEBUG] Validation completed.
+07-04-2024 15:29:11.600 [Gauge] [DEBUG] Run started
+07-04-2024 15:29:11.601 [Gauge] [DEBUG] Starting Xml Report plugin
+07-04-2024 15:29:11.932 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 59726
+07-04-2024 15:29:11.933 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 59726
+07-04-2024 15:29:11.933 [Gauge] [DEBUG] Initialising suite data store.
+07-04-2024 15:29:14.240 [java] [ERROR] Nis 07, 2024 3:29:14 �S org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+07-04-2024 15:29:14.241 [java] [ERROR] WARNING: Unable to find an exact match for CDP version 123, returning the closest version; found: 120; Please update to a Selenium version that supports CDP version 123
+07-04-2024 15:29:15.115 [java] [ERROR] Nis 07, 2024 3:29:15 �S org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+07-04-2024 15:29:15.115 [java] [ERROR] WARNING: Unable to find an exact match for CDP version 123, returning the closest version; found: 120; Please update to a Selenium version that supports CDP version 123
+07-04-2024 15:29:15.139 [java] [DEBUG] Executing '{} adresine git' using 'class com.arabamcom.step.BaseSteps.goToUrl
+07-04-2024 15:29:17.535 [java] [INFO] 2024-04-07 15:29:17 INFO  BaseSteps:158 goToUrl - https://arabam.com adresine gidiliyor.
+07-04-2024 15:29:17.544 [java] [DEBUG] Executing 'Check if element {} exists' using 'class com.arabamcom.step.BaseSteps.getElementWithKeyIfExists
+07-04-2024 15:29:17.621 [java] [INFO] 2024-04-07 15:29:17 INFO  BaseSteps:91 getElementWithKeyIfExists - Accept_Cookies elementi bulundu.
+07-04-2024 15:29:17.627 [java] [DEBUG] Executing 'Click to element {}' using 'class com.arabamcom.step.BaseSteps.clickElement
+07-04-2024 15:29:17.766 [java] [INFO] 2024-04-07 15:29:17 INFO  BaseSteps:117 waitByMilliSeconds - 500 milisaniye bekleniyor.
+07-04-2024 15:29:18.351 [java] [INFO] 2024-04-07 15:29:18 INFO  BaseSteps:140 clickElement - Accept_Cookies elementine tıklandı.
+07-04-2024 15:29:18.355 [java] [DEBUG] Executing 'Check if element {} exists' using 'class com.arabamcom.step.BaseSteps.getElementWithKeyIfExists
+07-04-2024 15:29:18.370 [java] [INFO] 2024-04-07 15:29:18 INFO  BaseSteps:91 getElementWithKeyIfExists - HeaderLogoCheck elementi bulundu.
+07-04-2024 15:29:18.374 [java] [DEBUG] Executing '{} saniye bekle' using 'class com.arabamcom.step.BaseSteps.waitBySeconds
+07-04-2024 15:29:18.374 [java] [INFO] 2024-04-07 15:29:18 INFO  BaseSteps:106 waitBySeconds - 1 saniye bekleniyor.
+07-04-2024 15:29:19.395 [java] [DEBUG] Executing 'Check if element {} exists' using 'class com.arabamcom.step.BaseSteps.getElementWithKeyIfExists
+07-04-2024 15:29:19.408 [java] [INFO] 2024-04-07 15:29:19 INFO  BaseSteps:91 getElementWithKeyIfExists - Prige_Suggestion elementi bulundu.
+07-04-2024 15:29:19.413 [java] [DEBUG] Executing 'Click to element {}' using 'class com.arabamcom.step.BaseSteps.clickElement
+07-04-2024 15:29:19.556 [java] [INFO] 2024-04-07 15:29:19 INFO  BaseSteps:117 waitByMilliSeconds - 500 milisaniye bekleniyor.
+07-04-2024 15:29:21.594 [java] [INFO] 2024-04-07 15:29:21 INFO  BaseSteps:140 clickElement - Prige_Suggestion elementine tıklandı.
+07-04-2024 15:29:21.600 [java] [DEBUG] Executing 'Check if element {} exists' using 'class com.arabamcom.step.BaseSteps.getElementWithKeyIfExists
+07-04-2024 15:29:21.611 [java] [INFO] 2024-04-07 15:29:21 INFO  BaseSteps:91 getElementWithKeyIfExists - Prige_Suggestion elementi bulundu.
+07-04-2024 15:29:21.615 [java] [DEBUG] Executing 'Check if element {} exists' using 'class com.arabamcom.step.BaseSteps.getElementWithKeyIfExists
+07-04-2024 15:29:21.629 [java] [INFO] 2024-04-07 15:29:21 INFO  BaseSteps:91 getElementWithKeyIfExists - fiyat_merak elementi bulundu.
+07-04-2024 15:29:21.634 [java] [DEBUG] Executing 'Click to element {}' using 'class com.arabamcom.step.BaseSteps.clickElement
+07-04-2024 15:29:21.763 [java] [INFO] 2024-04-07 15:29:21 INFO  BaseSteps:117 waitByMilliSeconds - 500 milisaniye bekleniyor.
+07-04-2024 15:29:23.669 [java] [INFO] 2024-04-07 15:29:23 INFO  BaseSteps:140 clickElement - fiyat_merak elementine tıklandı.
+07-04-2024 15:29:23.675 [java] [DEBUG] Executing 'Check if element {} exists' using 'class com.arabamcom.step.BaseSteps.getElementWithKeyIfExists
+07-04-2024 15:29:23.689 [java] [INFO] 2024-04-07 15:29:23 INFO  BaseSteps:91 getElementWithKeyIfExists - emailOrPhone elementi bulundu.
+07-04-2024 15:29:23.692 [java] [DEBUG] Executing 'Write value {} to element {}' using 'class com.arabamcom.step.BaseSteps.ssendKeys
+07-04-2024 15:29:23.786 [java] [INFO] 2024-04-07 15:29:23 INFO  BaseSteps:151 ssendKeys - emailOrPhone elementine mharunmutlu@gmail.com texti yazıldı.
+07-04-2024 15:29:23.789 [java] [DEBUG] Executing 'Check if element {} exists' using 'class com.arabamcom.step.BaseSteps.getElementWithKeyIfExists
+07-04-2024 15:29:23.803 [java] [INFO] 2024-04-07 15:29:23 INFO  BaseSteps:91 getElementWithKeyIfExists - password elementi bulundu.
+07-04-2024 15:29:23.806 [java] [DEBUG] Executing 'Write value {} to element {}' using 'class com.arabamcom.step.BaseSteps.ssendKeys
+07-04-2024 15:29:23.885 [java] [INFO] 2024-04-07 15:29:23 INFO  BaseSteps:151 ssendKeys - password elementine Mharun_135 texti yazıldı.
+07-04-2024 15:29:23.889 [java] [DEBUG] Executing 'Check if element {} exists' using 'class com.arabamcom.step.BaseSteps.getElementWithKeyIfExists
+07-04-2024 15:29:23.915 [java] [INFO] 2024-04-07 15:29:23 INFO  BaseSteps:91 getElementWithKeyIfExists - Login-Btn elementi bulundu.
+07-04-2024 15:29:23.917 [java] [DEBUG] Executing 'Click to element {}' using 'class com.arabamcom.step.BaseSteps.clickElement
+07-04-2024 15:29:24.039 [java] [INFO] 2024-04-07 15:29:24 INFO  BaseSteps:117 waitByMilliSeconds - 500 milisaniye bekleniyor.
+07-04-2024 15:29:24.599 [java] [INFO] 2024-04-07 15:29:24 INFO  BaseSteps:140 clickElement - Login-Btn elementine tıklandı.
+07-04-2024 15:29:24.606 [java] [DEBUG] Executing 'Wait {} seconds' using 'class com.arabamcom.step.BaseSteps.waitBySeconds
+07-04-2024 15:29:24.606 [java] [INFO] 2024-04-07 15:29:24 INFO  BaseSteps:106 waitBySeconds - 5 saniye bekleniyor.
+07-04-2024 15:29:29.621 [java] [DEBUG] Executing 'Check if element {} exists' using 'class com.arabamcom.step.BaseSteps.getElementWithKeyIfExists
+07-04-2024 15:29:29.633 [java] [INFO] 2024-04-07 15:29:29 INFO  BaseSteps:91 getElementWithKeyIfExists - breadCrumb elementi bulundu.
+07-04-2024 15:29:29.637 [java] [DEBUG] Executing 'Check if element {} exists' using 'class com.arabamcom.step.BaseSteps.getElementWithKeyIfExists
+07-04-2024 15:29:29.650 [java] [INFO] 2024-04-07 15:29:29 INFO  BaseSteps:91 getElementWithKeyIfExists - Random-marka-Pick elementi bulundu.
+07-04-2024 15:29:29.653 [java] [DEBUG] Executing '{} menu listesinden rasgele se�' using 'class com.arabamcom.step.BaseSteps.chooseRandomElementFromList
+07-04-2024 15:29:29.685 [java] [INFO] BMW
+07-04-2024 15:29:29.753 [java] [DEBUG] Executing 'Wait {} seconds' using 'class com.arabamcom.step.BaseSteps.waitBySeconds
+07-04-2024 15:29:29.753 [java] [INFO] 2024-04-07 15:29:29 INFO  BaseSteps:106 waitBySeconds - 1 saniye bekleniyor.
+07-04-2024 15:29:30.766 [java] [DEBUG] Executing 'Check if element {} exists' using 'class com.arabamcom.step.BaseSteps.getElementWithKeyIfExists
+07-04-2024 15:29:30.779 [java] [INFO] 2024-04-07 15:29:30 INFO  BaseSteps:91 getElementWithKeyIfExists - breadCrumb elementi bulundu.
+07-04-2024 15:29:30.782 [java] [DEBUG] Executing '{} li element comparetexti i�eriyor mu' using 'class com.arabamcom.step.BaseSteps.checkelementtext
+07-04-2024 15:29:30.782 [java] [INFO] 2024-04-07 15:29:30 INFO  BaseSteps:169 checkelementtext - compareText: BMW
+07-04-2024 15:29:30.801 [java] [INFO] 2024-04-07 15:29:30 INFO  BaseSteps:171 checkelementtext - actualText: BMW
+07-04-2024 15:29:30.802 [java] [INFO] 2024-04-07 15:29:30 INFO  BaseSteps:175 checkelementtext - BMWTexti BMW değerini içeriyor
+07-04-2024 15:29:30.805 [java] [DEBUG] Executing 'Check if element {} exists' using 'class com.arabamcom.step.BaseSteps.getElementWithKeyIfExists
+07-04-2024 15:29:30.816 [java] [INFO] 2024-04-07 15:29:30 INFO  BaseSteps:91 getElementWithKeyIfExists - Random-yıl-Pick elementi bulundu.
+07-04-2024 15:29:30.819 [java] [DEBUG] Executing '{} menu listesinden rasgele se�' using 'class com.arabamcom.step.BaseSteps.chooseRandomElementFromList
+07-04-2024 15:29:30.833 [java] [INFO] 2020
+07-04-2024 15:29:30.890 [java] [DEBUG] Executing 'Wait {} seconds' using 'class com.arabamcom.step.BaseSteps.waitBySeconds
+07-04-2024 15:29:30.890 [java] [INFO] 2024-04-07 15:29:30 INFO  BaseSteps:106 waitBySeconds - 1 saniye bekleniyor.
+07-04-2024 15:29:31.905 [java] [DEBUG] Executing 'Check if element {} exists' using 'class com.arabamcom.step.BaseSteps.getElementWithKeyIfExists
+07-04-2024 15:29:31.916 [java] [INFO] 2024-04-07 15:29:31 INFO  BaseSteps:91 getElementWithKeyIfExists - breadCrumb elementi bulundu.
+07-04-2024 15:29:31.919 [java] [DEBUG] Executing '{} li element comparetexti i�eriyor mu' using 'class com.arabamcom.step.BaseSteps.checkelementtext
+07-04-2024 15:29:31.919 [java] [INFO] 2024-04-07 15:29:31 INFO  BaseSteps:169 checkelementtext - compareText: 2020
+07-04-2024 15:29:31.936 [java] [INFO] 2024-04-07 15:29:31 INFO  BaseSteps:171 checkelementtext - actualText: 2020
+07-04-2024 15:29:31.936 [java] [INFO] 2024-04-07 15:29:31 INFO  BaseSteps:175 checkelementtext - 2020Texti 2020 değerini içeriyor
+07-04-2024 15:29:31.940 [java] [DEBUG] Executing 'Check if element {} exists' using 'class com.arabamcom.step.BaseSteps.getElementWithKeyIfExists
+07-04-2024 15:29:31.949 [java] [INFO] 2024-04-07 15:29:31 INFO  BaseSteps:91 getElementWithKeyIfExists - Random-model-Pick elementi bulundu.
+07-04-2024 15:29:31.953 [java] [DEBUG] Executing '{} menu listesinden rasgele se�' using 'class com.arabamcom.step.BaseSteps.chooseRandomElementFromList
+07-04-2024 15:29:31.965 [java] [INFO] 2 Serisi
+07-04-2024 15:29:32.023 [java] [DEBUG] Executing 'Wait {} seconds' using 'class com.arabamcom.step.BaseSteps.waitBySeconds
+07-04-2024 15:29:32.023 [java] [INFO] 2024-04-07 15:29:32 INFO  BaseSteps:106 waitBySeconds - 1 saniye bekleniyor.
+07-04-2024 15:29:33.031 [java] [DEBUG] Executing 'Check if element {} exists' using 'class com.arabamcom.step.BaseSteps.getElementWithKeyIfExists
+07-04-2024 15:29:33.042 [java] [INFO] 2024-04-07 15:29:33 INFO  BaseSteps:91 getElementWithKeyIfExists - breadCrumb elementi bulundu.
+07-04-2024 15:29:33.046 [java] [DEBUG] Executing '{} li element comparetexti i�eriyor mu' using 'class com.arabamcom.step.BaseSteps.checkelementtext
+07-04-2024 15:29:33.046 [java] [INFO] 2024-04-07 15:29:33 INFO  BaseSteps:169 checkelementtext - compareText: 2 Serisi
+07-04-2024 15:29:33.063 [java] [INFO] 2024-04-07 15:29:33 INFO  BaseSteps:171 checkelementtext - actualText: 2 Serisi
+07-04-2024 15:29:33.063 [java] [INFO] 2024-04-07 15:29:33 INFO  BaseSteps:175 checkelementtext - 2 SerisiTexti 2 Serisi değerini içeriyor
+07-04-2024 15:29:33.066 [java] [DEBUG] Executing 'Check if element {} exists' using 'class com.arabamcom.step.BaseSteps.getElementWithKeyIfExists
+07-04-2024 15:29:33.076 [java] [INFO] 2024-04-07 15:29:33 INFO  BaseSteps:91 getElementWithKeyIfExists - Random-kasa-Pick elementi bulundu.
+07-04-2024 15:29:33.079 [java] [DEBUG] Executing '{} menu listesinden rasgele se�' using 'class com.arabamcom.step.BaseSteps.chooseRandomElementFromList
+07-04-2024 15:29:33.091 [java] [INFO] MPV
+07-04-2024 15:29:33.171 [java] [DEBUG] Executing 'Wait {} seconds' using 'class com.arabamcom.step.BaseSteps.waitBySeconds
+07-04-2024 15:29:33.171 [java] [INFO] 2024-04-07 15:29:33 INFO  BaseSteps:106 waitBySeconds - 1 saniye bekleniyor.
+07-04-2024 15:29:34.186 [java] [DEBUG] Executing 'Check if element {} exists' using 'class com.arabamcom.step.BaseSteps.getElementWithKeyIfExists
+07-04-2024 15:29:34.197 [java] [INFO] 2024-04-07 15:29:34 INFO  BaseSteps:91 getElementWithKeyIfExists - breadCrumb elementi bulundu.
+07-04-2024 15:29:34.201 [java] [DEBUG] Executing '{} li element comparetexti i�eriyor mu' using 'class com.arabamcom.step.BaseSteps.checkelementtext
+07-04-2024 15:29:34.201 [java] [INFO] 2024-04-07 15:29:34 INFO  BaseSteps:169 checkelementtext - compareText: MPV
+07-04-2024 15:29:34.219 [java] [INFO] 2024-04-07 15:29:34 INFO  BaseSteps:171 checkelementtext - actualText: MPV
+07-04-2024 15:29:34.219 [java] [INFO] 2024-04-07 15:29:34 INFO  BaseSteps:175 checkelementtext - MPVTexti MPV değerini içeriyor
+07-04-2024 15:29:34.223 [java] [DEBUG] Executing 'Check if element {} exists' using 'class com.arabamcom.step.BaseSteps.getElementWithKeyIfExists
+07-04-2024 15:29:34.232 [java] [INFO] 2024-04-07 15:29:34 INFO  BaseSteps:91 getElementWithKeyIfExists - Random-yakıt-Pick elementi bulundu.
+07-04-2024 15:29:34.235 [java] [DEBUG] Executing '{} menu listesinden rasgele se�' using 'class com.arabamcom.step.BaseSteps.chooseRandomElementFromList
+07-04-2024 15:29:34.245 [java] [INFO] Dizel
+07-04-2024 15:29:34.319 [java] [DEBUG] Executing 'Wait {} seconds' using 'class com.arabamcom.step.BaseSteps.waitBySeconds
+07-04-2024 15:29:34.319 [java] [INFO] 2024-04-07 15:29:34 INFO  BaseSteps:106 waitBySeconds - 1 saniye bekleniyor.
+07-04-2024 15:29:35.337 [java] [DEBUG] Executing 'Check if element {} exists' using 'class com.arabamcom.step.BaseSteps.getElementWithKeyIfExists
+07-04-2024 15:29:35.348 [java] [INFO] 2024-04-07 15:29:35 INFO  BaseSteps:91 getElementWithKeyIfExists - breadCrumb elementi bulundu.
+07-04-2024 15:29:35.352 [java] [DEBUG] Executing '{} li element comparetexti i�eriyor mu' using 'class com.arabamcom.step.BaseSteps.checkelementtext
+07-04-2024 15:29:35.352 [java] [INFO] 2024-04-07 15:29:35 INFO  BaseSteps:169 checkelementtext - compareText: Dizel
+07-04-2024 15:29:35.369 [java] [INFO] 2024-04-07 15:29:35 INFO  BaseSteps:171 checkelementtext - actualText: Dizel
+07-04-2024 15:29:35.369 [java] [INFO] 2024-04-07 15:29:35 INFO  BaseSteps:175 checkelementtext - DizelTexti Dizel değerini içeriyor
+07-04-2024 15:29:35.373 [java] [DEBUG] Executing 'Check if element {} exists' using 'class com.arabamcom.step.BaseSteps.getElementWithKeyIfExists
+07-04-2024 15:29:35.382 [java] [INFO] 2024-04-07 15:29:35 INFO  BaseSteps:91 getElementWithKeyIfExists - Random-vites-Pick elementi bulundu.
+07-04-2024 15:29:35.386 [java] [DEBUG] Executing '{} menu listesinden rasgele se�' using 'class com.arabamcom.step.BaseSteps.chooseRandomElementFromList
+07-04-2024 15:29:35.398 [java] [INFO] Otomatik
+07-04-2024 15:29:35.451 [java] [DEBUG] Executing 'Wait {} seconds' using 'class com.arabamcom.step.BaseSteps.waitBySeconds
+07-04-2024 15:29:35.451 [java] [INFO] 2024-04-07 15:29:35 INFO  BaseSteps:106 waitBySeconds - 1 saniye bekleniyor.
+07-04-2024 15:29:36.471 [java] [DEBUG] Executing 'Check if element {} exists' using 'class com.arabamcom.step.BaseSteps.getElementWithKeyIfExists
+07-04-2024 15:29:36.482 [java] [INFO] 2024-04-07 15:29:36 INFO  BaseSteps:91 getElementWithKeyIfExists - breadCrumb elementi bulundu.
+07-04-2024 15:29:36.485 [java] [DEBUG] Executing '{} li element comparetexti i�eriyor mu' using 'class com.arabamcom.step.BaseSteps.checkelementtext
+07-04-2024 15:29:36.485 [java] [INFO] 2024-04-07 15:29:36 INFO  BaseSteps:169 checkelementtext - compareText: Otomatik
+07-04-2024 15:29:36.504 [java] [INFO] 2024-04-07 15:29:36 INFO  BaseSteps:171 checkelementtext - actualText: Otomatik
+07-04-2024 15:29:36.504 [java] [INFO] 2024-04-07 15:29:36 INFO  BaseSteps:175 checkelementtext - OtomatikTexti Otomatik değerini içeriyor
+07-04-2024 15:29:36.507 [java] [DEBUG] Executing 'Check if element {} exists' using 'class com.arabamcom.step.BaseSteps.getElementWithKeyIfExists
+07-04-2024 15:29:36.519 [java] [INFO] 2024-04-07 15:29:36 INFO  BaseSteps:91 getElementWithKeyIfExists - Random-paket-Pick elementi bulundu.
+07-04-2024 15:29:36.522 [java] [DEBUG] Executing '{} menu listesinden rasgele se�' using 'class com.arabamcom.step.BaseSteps.chooseRandomElementFromList
+07-04-2024 15:29:36.537 [java] [INFO] 2 Serisi 216d Premium Line Otomatik
+07-04-2024 15:29:36.537 [java] [INFO] OtomatikMPV116 Hp1496 CC2019 - 2021
+07-04-2024 15:29:36.537 [java] [INFO] Arac� Se�
+07-04-2024 15:29:36.618 [java] [DEBUG] Executing 'Wait {} seconds' using 'class com.arabamcom.step.BaseSteps.waitBySeconds
+07-04-2024 15:29:36.618 [java] [INFO] 2024-04-07 15:29:36 INFO  BaseSteps:106 waitBySeconds - 1 saniye bekleniyor.
+07-04-2024 15:29:37.624 [java] [DEBUG] Executing 'Check if element {} exists' using 'class com.arabamcom.step.BaseSteps.getElementWithKeyIfExists
+07-04-2024 15:29:37.635 [java] [INFO] 2024-04-07 15:29:37 INFO  BaseSteps:91 getElementWithKeyIfExists - breadCrumb elementi bulundu.
+07-04-2024 15:29:37.638 [java] [DEBUG] Executing 'Check if element {} exists' using 'class com.arabamcom.step.BaseSteps.getElementWithKeyIfExists
+07-04-2024 15:29:37.647 [java] [INFO] 2024-04-07 15:29:37 INFO  BaseSteps:91 getElementWithKeyIfExists - Random-renk-Pick elementi bulundu.
+07-04-2024 15:29:37.651 [java] [DEBUG] Executing '{} menu listesinden rasgele se�' using 'class com.arabamcom.step.BaseSteps.chooseRandomElementFromList
+07-04-2024 15:29:37.664 [java] [INFO] Gri (metalik)
+07-04-2024 15:29:37.749 [java] [DEBUG] Executing 'Wait {} seconds' using 'class com.arabamcom.step.BaseSteps.waitBySeconds
+07-04-2024 15:29:37.750 [java] [INFO] 2024-04-07 15:29:37 INFO  BaseSteps:106 waitBySeconds - 1 saniye bekleniyor.
+07-04-2024 15:29:38.766 [java] [DEBUG] Executing 'Check if element {} exists' using 'class com.arabamcom.step.BaseSteps.getElementWithKeyIfExists
+07-04-2024 15:29:38.777 [java] [INFO] 2024-04-07 15:29:38 INFO  BaseSteps:91 getElementWithKeyIfExists - breadCrumb elementi bulundu.
+07-04-2024 15:29:38.780 [java] [DEBUG] Executing '{} li element comparetexti i�eriyor mu' using 'class com.arabamcom.step.BaseSteps.checkelementtext
+07-04-2024 15:29:38.780 [java] [INFO] 2024-04-07 15:29:38 INFO  BaseSteps:169 checkelementtext - compareText: Gri (metalik)
+07-04-2024 15:29:38.798 [java] [INFO] 2024-04-07 15:29:38 INFO  BaseSteps:171 checkelementtext - actualText: Gri (metalik)
+07-04-2024 15:29:38.798 [java] [INFO] 2024-04-07 15:29:38 INFO  BaseSteps:175 checkelementtext - Gri (metalik)Texti Gri (metalik) değerini içeriyor
+07-04-2024 15:29:38.800 [java] [DEBUG] Executing 'Check if element {} exists' using 'class com.arabamcom.step.BaseSteps.getElementWithKeyIfExists
+07-04-2024 15:29:38.814 [java] [INFO] 2024-04-07 15:29:38 INFO  BaseSteps:91 getElementWithKeyIfExists - km-input elementi bulundu.
+07-04-2024 15:29:38.816 [java] [DEBUG] Executing 'Write random value to element {}' using 'class com.arabamcom.step.BaseSteps.writeRandomValueToElement
+07-04-2024 15:29:38.876 [java] [DEBUG] Executing 'Check if element {} exists' using 'class com.arabamcom.step.BaseSteps.getElementWithKeyIfExists
+07-04-2024 15:29:38.890 [java] [INFO] 2024-04-07 15:29:38 INFO  BaseSteps:91 getElementWithKeyIfExists - km-submit-btn elementi bulundu.
+07-04-2024 15:29:38.892 [java] [DEBUG] Executing 'Click to element {}' using 'class com.arabamcom.step.BaseSteps.clickElement
+07-04-2024 15:29:39.025 [java] [INFO] 2024-04-07 15:29:39 INFO  BaseSteps:117 waitByMilliSeconds - 500 milisaniye bekleniyor.
+07-04-2024 15:29:39.622 [java] [INFO] 2024-04-07 15:29:39 INFO  BaseSteps:140 clickElement - km-submit-btn elementine tıklandı.
+07-04-2024 15:29:39.625 [java] [DEBUG] Executing 'Check if element {} exists' using 'class com.arabamcom.step.BaseSteps.getElementWithKeyIfExists
+07-04-2024 15:29:40.167 [java] [INFO] 2024-04-07 15:29:40 INFO  BaseSteps:91 getElementWithKeyIfExists - Tramer-Damege-SVG elementi bulundu.
+07-04-2024 15:29:40.169 [java] [DEBUG] Executing '{} saniye bekle' using 'class com.arabamcom.step.BaseSteps.waitBySeconds
+07-04-2024 15:29:40.169 [java] [INFO] 2024-04-07 15:29:40 INFO  BaseSteps:106 waitBySeconds - 5 saniye bekleniyor.
+07-04-2024 15:29:45.376 [xml-report] [INFO] Successfully generated xml-report to => C:\Users\mharu\Desktop\chrometest-master\reports\xml-report
+07-04-2024 15:29:45.376 [Gauge] [DEBUG] Sending kill message to Xml Report plugin.
+07-04-2024 15:29:45.379 [java] [DEBUG] Killing Java runner...
+07-04-2024 15:29:45.380 [java] [DEBUG] Stopping execution pool...
+07-04-2024 15:29:45.380 [java] [DEBUG] Shutting down grpc server...
+07-04-2024 15:29:45.384 [java] [DEBUG] Runner killed gracefully.
+07-04-2024 15:29:46.036 [Gauge] [DEBUG] Runner with PID:18892 has exited
+07-04-2024 15:29:46.036 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+07-04-2024 15:29:46.036 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+07-04-2024 15:29:46.036 [Gauge] [INFO] 
+Total time taken: 33.741s
+07-04-2024 15:29:46.036 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+07-04-2024 15:52:13.321 [Gauge] [DEBUG] Created gauge_screenshots_dir at C:\Users\mharu\Desktop\chrometest-master\.gauge\screenshots
+07-04-2024 15:52:13.322 [Gauge] [DEBUG] Plugin java is already installed.
+07-04-2024 15:52:13.323 [Gauge] [DEBUG] Plugin xml-report is already installed.
+07-04-2024 15:52:13.323 [Gauge] [DEBUG] Parsing started.
+07-04-2024 15:52:13.323 [Gauge] [DEBUG] Started concepts parsing.
+07-04-2024 15:52:13.330 [Gauge] [DEBUG] 14 concepts parsing completed.
+07-04-2024 15:52:13.330 [Gauge] [DEBUG] Started specifications parsing.
+07-04-2024 15:52:13.330 [Gauge] [DEBUG] 1 specifications parsing completed.
+07-04-2024 15:52:13.330 [Gauge] [DEBUG] Parsing completed.
+07-04-2024 15:52:13.346 [java] [DEBUG] ***** Printing Properties/Env Values *****
+07-04-2024 15:52:13.346 [java] [DEBUG] PATH: C:\Users\mharu\Desktop\WINDOWS.X64_193000_db_home\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Gauge\bin;C:\Program Files\apache-maven-3.8.2\bin;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\mharu\AppData\Local\Microsoft\WindowsApps;C:\Users\mharu\AppData\Local\GitHubDesktop\bin;C:\Program Files\apache-maven-3.8.2\bin;;C:\Users\mharu\AppData\Roaming\gauge\plugins\screenshot\0.1.0
+07-04-2024 15:52:13.346 [java] [DEBUG] JAVA_HOME: C:\Program Files\Java\jdk-21
+07-04-2024 15:52:13.346 [java] [DEBUG] gauge_project_root: C:\Users\mharu\Desktop\chrometest-master
+07-04-2024 15:52:13.346 [java] [DEBUG] gauge_parallel_streams_count: 12
+07-04-2024 15:52:13.346 [java] [DEBUG] gauge_reports_dir: reports
+07-04-2024 15:52:13.346 [java] [DEBUG] overwrite_reports: true
+07-04-2024 15:52:13.346 [java] [DEBUG] logs_directory: logs
+07-04-2024 15:52:13.346 [java] [DEBUG] enable_multithreading: 
+07-04-2024 15:52:13.346 [java] [DEBUG] gauge_specs_dir: specs
+07-04-2024 15:52:13.346 [java] [DEBUG] csv_delimiter: ,
+07-04-2024 15:52:13.346 [java] [DEBUG] gauge_java_home: 
+07-04-2024 15:52:13.346 [java] [DEBUG] gauge_custom_build_path: 
+07-04-2024 15:52:13.346 [java] [DEBUG] gauge_additional_libs: libs/*
+07-04-2024 15:52:13.346 [java] [DEBUG] gauge_jvm_args: 
+07-04-2024 15:52:13.346 [java] [DEBUG] gauge_custom_compile_dir: 
+07-04-2024 15:52:13.346 [java] [DEBUG] gauge_clear_state_level: scenario
+07-04-2024 15:52:13.346 [java] [DEBUG] ***** END *****
+07-04-2024 15:52:14.040 [Gauge] [DEBUG] Checking updates...
+07-04-2024 15:52:14.041 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+07-04-2024 15:52:14.285 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+07-04-2024 15:52:14.341 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+07-04-2024 15:52:14.396 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/spectacle?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+07-04-2024 15:52:14.452 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,spectacle,xml-report&o=windows&a=amd64
+07-04-2024 15:52:15.832 [java] [DEBUG] classpath set to C:\Program Files\Java\jdk-15.0.2!\java.base;C:\Program Files\Java\jdk-15.0.2!\java.compiler;C:\Program Files\Java\jdk-15.0.2!\java.datatransfer;C:\Program Files\Java\jdk-15.0.2!\java.desktop;C:\Program Files\Java\jdk-15.0.2!\java.instrument;C:\Program Files\Java\jdk-15.0.2!\java.logging;C:\Program Files\Java\jdk-15.0.2!\java.management;C:\Program Files\Java\jdk-15.0.2!\java.management.rmi;C:\Program Files\Java\jdk-15.0.2!\java.naming;C:\Program Files\Java\jdk-15.0.2!\java.net.http;C:\Program Files\Java\jdk-15.0.2!\java.prefs;C:\Program Files\Java\jdk-15.0.2!\java.rmi;C:\Program Files\Java\jdk-15.0.2!\java.scripting;C:\Program Files\Java\jdk-15.0.2!\java.se;C:\Program Files\Java\jdk-15.0.2!\java.security.jgss;C:\Program Files\Java\jdk-15.0.2!\java.security.sasl;C:\Program Files\Java\jdk-15.0.2!\java.smartcardio;C:\Program Files\Java\jdk-15.0.2!\java.sql;C:\Program Files\Java\jdk-15.0.2!\java.sql.rowset;C:\Program Files\Java\jdk-15.0.2!\java.transaction.xa;C:\Program Files\Java\jdk-15.0.2!\java.xml;C:\Program Files\Java\jdk-15.0.2!\java.xml.crypto;C:\Program Files\Java\jdk-15.0.2!\jdk.accessibility;C:\Program Files\Java\jdk-15.0.2!\jdk.aot;C:\Program Files\Java\jdk-15.0.2!\jdk.attach;C:\Program Files\Java\jdk-15.0.2!\jdk.charsets;C:\Program Files\Java\jdk-15.0.2!\jdk.compiler;C:\Program Files\Java\jdk-15.0.2!\jdk.crypto.cryptoki;C:\Program Files\Java\jdk-15.0.2!\jdk.crypto.ec;C:\Program Files\Java\jdk-15.0.2!\jdk.crypto.mscapi;C:\Program Files\Java\jdk-15.0.2!\jdk.dynalink;C:\Program Files\Java\jdk-15.0.2!\jdk.editpad;C:\Program Files\Java\jdk-15.0.2!\jdk.hotspot.agent;C:\Program Files\Java\jdk-15.0.2!\jdk.httpserver;C:\Program Files\Java\jdk-15.0.2!\jdk.incubator.foreign;C:\Program Files\Java\jdk-15.0.2!\jdk.incubator.jpackage;C:\Program Files\Java\jdk-15.0.2!\jdk.internal.ed;C:\Program Files\Java\jdk-15.0.2!\jdk.internal.jvmstat;C:\Program Files\Java\jdk-15.0.2!\jdk.internal.le;C:\Program Files\Java\jdk-15.0.2!\jdk.internal.opt;C:\Program Files\Java\jdk-15.0.2!\jdk.internal.vm.ci;C:\Program Files\Java\jdk-15.0.2!\jdk.internal.vm.compiler;C:\Program Files\Java\jdk-15.0.2!\jdk.internal.vm.compiler.management;C:\Program Files\Java\jdk-15.0.2!\jdk.jartool;C:\Program Files\Java\jdk-15.0.2!\jdk.javadoc;C:\Program Files\Java\jdk-15.0.2!\jdk.jcmd;C:\Program Files\Java\jdk-15.0.2!\jdk.jconsole;C:\Program Files\Java\jdk-15.0.2!\jdk.jdeps;C:\Program Files\Java\jdk-15.0.2!\jdk.jdi;C:\Program Files\Java\jdk-15.0.2!\jdk.jdwp.agent;C:\Program Files\Java\jdk-15.0.2!\jdk.jfr;C:\Program Files\Java\jdk-15.0.2!\jdk.jlink;C:\Program Files\Java\jdk-15.0.2!\jdk.jshell;C:\Program Files\Java\jdk-15.0.2!\jdk.jsobject;C:\Program Files\Java\jdk-15.0.2!\jdk.jstatd;C:\Program Files\Java\jdk-15.0.2!\jdk.localedata;C:\Program Files\Java\jdk-15.0.2!\jdk.management;C:\Program Files\Java\jdk-15.0.2!\jdk.management.agent;C:\Program Files\Java\jdk-15.0.2!\jdk.management.jfr;C:\Program Files\Java\jdk-15.0.2!\jdk.naming.dns;C:\Program Files\Java\jdk-15.0.2!\jdk.naming.rmi;C:\Program Files\Java\jdk-15.0.2!\jdk.net;C:\Program Files\Java\jdk-15.0.2!\jdk.nio.mapmode;C:\Program Files\Java\jdk-15.0.2!\jdk.sctp;C:\Program Files\Java\jdk-15.0.2!\jdk.security.auth;C:\Program Files\Java\jdk-15.0.2!\jdk.security.jgss;C:\Program Files\Java\jdk-15.0.2!\jdk.unsupported;C:\Program Files\Java\jdk-15.0.2!\jdk.unsupported.desktop;C:\Program Files\Java\jdk-15.0.2!\jdk.xml.dom;C:\Program Files\Java\jdk-15.0.2!\jdk.zipfs;C:\Users\mharu\Desktop\chrometest-master\target\test-classes;C:\Users\mharu\Desktop\chrometest-master\target\classes;C:\Users\mharu\.m2\repository\com\thoughtworks\gauge\gauge-java\0.10.3\gauge-java-0.10.3.jar;C:\Users\mharu\.m2\repository\org\assertj\assertj-core\3.24.2\assertj-core-3.24.2.jar;C:\Users\mharu\.m2\repository\net\bytebuddy\byte-buddy\1.12.21\byte-buddy-1.12.21.jar;C:\Users\mharu\.m2\repository\org\reflections\reflections\0.10.2\reflections-0.10.2.jar;C:\Users\mharu\.m2\repository\org\javassist\javassist\3.28.0-GA\javassist-3.28.0-GA.jar;C:\Users\mharu\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\mharu\.m2\repository\com\github\javaparser\javaparser-core\3.25.6\javaparser-core-3.25.6.jar;C:\Users\mharu\.m2\repository\commons-io\commons-io\2.15.0\commons-io-2.15.0.jar;C:\Users\mharu\.m2\repository\org\apache\commons\commons-lang3\3.13.0\commons-lang3-3.13.0.jar;C:\Users\mharu\.m2\repository\org\json\json\20231013\json-20231013.jar;C:\Users\mharu\.m2\repository\com\google\protobuf\protobuf-java\3.25.0\protobuf-java-3.25.0.jar;C:\Users\mharu\.m2\repository\io\grpc\grpc-api\1.59.0\grpc-api-1.59.0.jar;C:\Users\mharu\.m2\repository\com\google\errorprone\error_prone_annotations\2.20.0\error_prone_annotations-2.20.0.jar;C:\Users\mharu\.m2\repository\io\grpc\grpc-netty-shaded\1.59.0\grpc-netty-shaded-1.59.0.jar;C:\Users\mharu\.m2\repository\io\perfmark\perfmark-api\0.26.0\perfmark-api-0.26.0.jar;C:\Users\mharu\.m2\repository\io\grpc\grpc-core\1.59.0\grpc-core-1.59.0.jar;C:\Users\mharu\.m2\repository\com\google\android\annotations\4.1.1.4\annotations-4.1.1.4.jar;C:\Users\mharu\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.23\animal-sniffer-annotations-1.23.jar;C:\Users\mharu\.m2\repository\io\grpc\grpc-context\1.59.0\grpc-context-1.59.0.jar;C:\Users\mharu\.m2\repository\io\grpc\grpc-util\1.59.0\grpc-util-1.59.0.jar;C:\Users\mharu\.m2\repository\io\grpc\grpc-protobuf\1.59.0\grpc-protobuf-1.59.0.jar;C:\Users\mharu\.m2\repository\com\google\api\grpc\proto-google-common-protos\2.22.0\proto-google-common-protos-2.22.0.jar;C:\Users\mharu\.m2\repository\io\grpc\grpc-protobuf-lite\1.59.0\grpc-protobuf-lite-1.59.0.jar;C:\Users\mharu\.m2\repository\io\grpc\grpc-stub\1.59.0\grpc-stub-1.59.0.jar;C:\Users\mharu\.m2\repository\javax\annotation\javax.annotation-api\1.3.2\javax.annotation-api-1.3.2.jar;C:\Users\mharu\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\mharu\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\mharu\.m2\repository\org\seleniumhq\selenium\selenium-java\4.16.1\selenium-java-4.16.1.jar;C:\Users\mharu\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\4.16.1\selenium-chrome-driver-4.16.1.jar;C:\Users\mharu\.m2\repository\com\google\auto\service\auto-service-annotations\1.1.1\auto-service-annotations-1.1.1.jar;C:\Users\mharu\.m2\repository\org\seleniumhq\selenium\selenium-chromium-driver\4.16.1\selenium-chromium-driver-4.16.1.jar;C:\Users\mharu\.m2\repository\org\seleniumhq\selenium\selenium-json\4.16.1\selenium-json-4.16.1.jar;C:\Users\mharu\.m2\repository\org\seleniumhq\selenium\selenium-manager\4.16.1\selenium-manager-4.16.1.jar;C:\Users\mharu\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v118\4.16.1\selenium-devtools-v118-4.16.1.jar;C:\Users\mharu\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v119\4.16.1\selenium-devtools-v119-4.16.1.jar;C:\Users\mharu\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v120\4.16.1\selenium-devtools-v120-4.16.1.jar;C:\Users\mharu\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v85\4.16.1\selenium-devtools-v85-4.16.1.jar;C:\Users\mharu\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\4.16.1\selenium-edge-driver-4.16.1.jar;C:\Users\mharu\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\4.16.1\selenium-firefox-driver-4.16.1.jar;C:\Users\mharu\.m2\repository\org\seleniumhq\selenium\selenium-http\4.16.1\selenium-http-4.16.1.jar;C:\Users\mharu\.m2\repository\dev\failsafe\failsafe\3.3.2\failsafe-3.3.2.jar;C:\Users\mharu\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\4.16.1\selenium-ie-driver-4.16.1.jar;C:\Users\mharu\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\4.16.1\selenium-remote-driver-4.16.1.jar;C:\Users\mharu\.m2\repository\com\google\guava\guava\32.1.2-jre\guava-32.1.2-jre.jar;C:\Users\mharu\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\mharu\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\mharu\.m2\repository\org\checkerframework\checker-qual\3.33.0\checker-qual-3.33.0.jar;C:\Users\mharu\.m2\repository\com\google\j2objc\j2objc-annotations\2.8\j2objc-annotations-2.8.jar;C:\Users\mharu\.m2\repository\io\opentelemetry\opentelemetry-api\1.28.0\opentelemetry-api-1.28.0.jar;C:\Users\mharu\.m2\repository\io\opentelemetry\opentelemetry-context\1.28.0\opentelemetry-context-1.28.0.jar;C:\Users\mharu\.m2\repository\io\opentelemetry\opentelemetry-exporter-logging\1.28.0\opentelemetry-exporter-logging-1.28.0.jar;C:\Users\mharu\.m2\repository\io\opentelemetry\opentelemetry-sdk-metrics\1.28.0\opentelemetry-sdk-metrics-1.28.0.jar;C:\Users\mharu\.m2\repository\io\opentelemetry\opentelemetry-extension-incubator\1.28.0-alpha\opentelemetry-extension-incubator-1.28.0-alpha.jar;C:\Users\mharu\.m2\repository\io\opentelemetry\opentelemetry-sdk-logs\1.28.0\opentelemetry-sdk-logs-1.28.0.jar;C:\Users\mharu\.m2\repository\io\opentelemetry\opentelemetry-sdk-common\1.28.0\opentelemetry-sdk-common-1.28.0.jar;C:\Users\mharu\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure-spi\1.28.0\opentelemetry-sdk-extension-autoconfigure-spi-1.28.0.jar;C:\Users\mharu\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure\1.28.0\opentelemetry-sdk-extension-autoconfigure-1.28.0.jar;C:\Users\mharu\.m2\repository\io\opentelemetry\opentelemetry-api-events\1.28.0-alpha\opentelemetry-api-events-1.28.0-alpha.jar;C:\Users\mharu\.m2\repository\io\opentelemetry\opentelemetry-sdk-trace\1.28.0\opentelemetry-sdk-trace-1.28.0.jar;C:\Users\mharu\.m2\repository\io\opentelemetry\opentelemetry-sdk\1.28.0\opentelemetry-sdk-1.28.0.jar;C:\Users\mharu\.m2\repository\io\opentelemetry\opentelemetry-semconv\1.28.0-alpha\opentelemetry-semconv-1.28.0-alpha.jar;C:\Users\mharu\.m2\repository\org\seleniumhq\selenium\selenium-os\4.16.1\selenium-os-4.16.1.jar;C:\Users\mharu\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\mharu\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\4.16.1\selenium-safari-driver-4.16.1.jar;C:\Users\mharu\.m2\repository\org\seleniumhq\selenium\selenium-support\4.16.1\selenium-support-4.16.1.jar;C:\Users\mharu\.m2\repository\io\github\bonigarcia\webdrivermanager\4.0.0\webdrivermanager-4.0.0.jar;C:\Users\mharu\.m2\repository\com\google\code\gson\gson\2.8.6\gson-2.8.6.jar;C:\Users\mharu\.m2\repository\org\apache\httpcomponents\client5\httpclient5\5.0\httpclient5-5.0.jar;C:\Users\mharu\.m2\repository\org\apache\httpcomponents\core5\httpcore5\5.0\httpcore5-5.0.jar;C:\Users\mharu\.m2\repository\org\apache\httpcomponents\core5\httpcore5-h2\5.0\httpcore5-h2-5.0.jar;C:\Users\mharu\.m2\repository\commons-codec\commons-codec\1.13\commons-codec-1.13.jar;C:\Users\mharu\.m2\repository\org\rauschig\jarchivelib\1.0.0\jarchivelib-1.0.0.jar;C:\Users\mharu\.m2\repository\org\apache\commons\commons-compress\1.18\commons-compress-1.18.jar;C:\Users\mharu\.m2\repository\org\jsoup\jsoup\1.13.1\jsoup-1.13.1.jar;C:\Users\mharu\.m2\repository\org\seleniumhq\selenium\selenium-api\4.16.1\selenium-api-4.16.1.jar;C:\Users\mharu\.m2\repository\mysql\mysql-connector-java\8.0.21\mysql-connector-java-8.0.21.jar;C:\Users\mharu\.m2\repository\com\microsoft\sqlserver\mssql-jdbc\8.2.2.jre11\mssql-jdbc-8.2.2.jre11.jar;C:\Users\mharu\.m2\repository\org\slf4j\slf4j-log4j12\1.7.30\slf4j-log4j12-1.7.30.jar;C:\Users\mharu\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;C:\Users\mharu\.m2\repository\org\slf4j\slf4j-api\1.7.30\slf4j-api-1.7.30.jar;C:\Users\mharu\.m2\repository\org\hamcrest\hamcrest-all\1.3\hamcrest-all-1.3.jar;C:\Users\mharu\.m2\repository\org\hamcrest\hamcrest-junit\2.0.0.0\hamcrest-junit-2.0.0.0.jar;C:\Users\mharu\.m2\repository\org\hamcrest\java-hamcrest\2.0.0.0\java-hamcrest-2.0.0.0.jar;C:\Users\mharu\.m2\repository\io\rest-assured\rest-assured\3.3.0\rest-assured-3.3.0.jar;C:\Users\mharu\.m2\repository\org\codehaus\groovy\groovy\2.4.15\groovy-2.4.15.jar;C:\Users\mharu\.m2\repository\org\codehaus\groovy\groovy-xml\2.4.15\groovy-xml-2.4.15.jar;C:\Users\mharu\.m2\repository\org\apache\httpcomponents\httpclient\4.5.3\httpclient-4.5.3.jar;C:\Users\mharu\.m2\repository\org\apache\httpcomponents\httpcore\4.4.6\httpcore-4.4.6.jar;C:\Users\mharu\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\mharu\.m2\repository\org\apache\httpcomponents\httpmime\4.5.3\httpmime-4.5.3.jar;C:\Users\mharu\.m2\repository\org\hamcrest\hamcrest-library\1.3\hamcrest-library-1.3.jar;C:\Users\mharu\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\mharu\.m2\repository\io\rest-assured\json-path\3.3.0\json-path-3.3.0.jar;C:\Users\mharu\.m2\repository\org\codehaus\groovy\groovy-json\2.4.15\groovy-json-2.4.15.jar;C:\Users\mharu\.m2\repository\io\rest-assured\rest-assured-common\3.3.0\rest-assured-common-3.3.0.jar;C:\Users\mharu\.m2\repository\io\rest-assured\xml-path\3.3.0\xml-path-3.3.0.jar;C:\Users\mharu\.m2\repository\javax\xml\bind\jaxb-api\2.2.12\jaxb-api-2.2.12.jar;C:\Users\mharu\.m2\repository\com\sun\xml\bind\jaxb-osgi\2.2.10\jaxb-osgi-2.2.10.jar;C:\Users\mharu\.m2\repository\org\apache\sling\org.apache.sling.javax.activation\0.1.0\org.apache.sling.javax.activation-0.1.0.jar;C:\Users\mharu\.m2\repository\javax\activation\activation\1.1.1\activation-1.1.1.jar
+07-04-2024 15:52:15.847 [java] [DEBUG] found java executable in C:\Program Files\Java\jdk-21\bin\java.exe
+07-04-2024 15:52:15.847 [java] [DEBUG] running - C:\Program Files\Java\jdk-21\bin\java.exe [-Dfile.encoding=UTF-8 com.thoughtworks.gauge.GaugeRuntime --start]
+07-04-2024 15:52:15.847 [java] [DEBUG] stdout/stderr is logged to logs\26468-java.exe.out
+07-04-2024 15:52:15.982 [java] [DEBUG] multithreading is set to false
+07-04-2024 15:52:16.300 [java] [DEBUG] Using reflection to scan dependencies for gauge implementations...
+07-04-2024 15:52:16.426 [java] [ERROR] SLF4J: A number (20) of logging calls during the initialization phase have been intercepted and are
+07-04-2024 15:52:16.426 [java] [ERROR] SLF4J: now being replayed. These are subject to the filtering rules of the underlying logging system.
+07-04-2024 15:52:16.426 [java] [ERROR] SLF4J: See also http://www.slf4j.org/codes.html#replay
+07-04-2024 15:52:16.894 [java] [DEBUG] gauge-java took 907milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value.
+07-04-2024 15:52:16.894 [java] [DEBUG] run 'gauge config runner_connection_timeout' and verify that it is < 907
+07-04-2024 15:52:16.894 [java] [DEBUG] starting gRPC server...
+07-04-2024 15:52:17.193 [java] [DEBUG] started gRPC server on port 63945
+07-04-2024 15:52:17.193 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 63945
+07-04-2024 15:52:17.321 [Gauge] [DEBUG] Successfully made the connection with runner with port: 63945
+07-04-2024 15:52:17.321 [Gauge] [DEBUG] Validation started.
+07-04-2024 15:52:17.535 [java] [INFO] 2024-04-07 15:52:17 INFO  Reflections:219 scan - Reflections took 1105 ms to scan 172 urls, producing 5674 keys and 34040 values
+07-04-2024 15:52:17.999 [java] [DEBUG] Scanning packages for steps
+07-04-2024 15:52:18.007 [java] [DEBUG] Comparing 'com.arabamcom.step.BaseSteps.goToUrl' and 'com.arabamcom.step.BaseSteps.goToUrl'
+07-04-2024 15:52:18.008 [java] [DEBUG] Found Go to {} address in current project scope.
+07-04-2024 15:52:18.008 [java] [DEBUG] Comparing 'com.arabamcom.step.BaseSteps.goToUrl' and 'com.arabamcom.step.BaseSteps.goToUrl'
+07-04-2024 15:52:18.008 [java] [DEBUG] Found {} adresine git in current project scope.
+07-04-2024 15:52:18.008 [java] [DEBUG] Comparing 'com.arabamcom.step.BaseSteps.waitByMilliSeconds' and 'com.arabamcom.step.BaseSteps.waitByMilliSeconds'
+07-04-2024 15:52:18.008 [java] [DEBUG] Found Wait {} milliseconds in current project scope.
+07-04-2024 15:52:18.008 [java] [DEBUG] Comparing 'com.arabamcom.step.BaseSteps.waitByMilliSeconds' and 'com.arabamcom.step.BaseSteps.waitByMilliSeconds'
+07-04-2024 15:52:18.008 [java] [DEBUG] Found {} milisaniye bekle in current project scope.
+07-04-2024 15:52:18.008 [java] [DEBUG] Comparing 'com.arabamcom.step.StepImplementation.sendKeysText' and 'com.arabamcom.step.StepImplementation.sendKeysText'
+07-04-2024 15:52:18.008 [java] [DEBUG] Found {} textini {} elementine yaz. in current project scope.
+07-04-2024 15:52:18.009 [java] [DEBUG] Comparing 'com.arabamcom.step.BaseSteps.writeToKeyWithJavaScript' and 'com.arabamcom.step.BaseSteps.writeToKeyWithJavaScript'
+07-04-2024 15:52:18.009 [java] [DEBUG] Found {} elementine {} de�erini js ile yaz in current project scope.
+07-04-2024 15:52:18.009 [java] [DEBUG] Comparing 'com.arabamcom.step.StepImplementation.waitSec' and 'com.arabamcom.step.StepImplementation.waitSec'
+07-04-2024 15:52:18.009 [java] [DEBUG] Found {} saniye bekle. in current project scope.
+07-04-2024 15:52:18.009 [java] [DEBUG] Comparing 'com.arabamcom.step.BaseSteps.writeRandomValueToElement' and 'com.arabamcom.step.BaseSteps.writeRandomValueToElement'
+07-04-2024 15:52:18.009 [java] [DEBUG] Found Write random value to element {} in current project scope.
+07-04-2024 15:52:18.009 [java] [DEBUG] Comparing 'com.arabamcom.step.BaseSteps.writeRandomValueToElement' and 'com.arabamcom.step.BaseSteps.writeRandomValueToElement'
+07-04-2024 15:52:18.009 [java] [DEBUG] Found {} elementine random de�er yaz in current project scope.
+07-04-2024 15:52:18.009 [java] [DEBUG] Comparing 'com.arabamcom.step.BaseSteps.ssendKeys' and 'com.arabamcom.step.BaseSteps.ssendKeys'
+07-04-2024 15:52:18.009 [java] [DEBUG] Found Write value {} to element {} in current project scope.
+07-04-2024 15:52:18.009 [java] [DEBUG] Comparing 'com.arabamcom.step.BaseSteps.ssendKeys' and 'com.arabamcom.step.BaseSteps.ssendKeys'
+07-04-2024 15:52:18.010 [java] [DEBUG] Found {} textini {} elemente yaz in current project scope.
+07-04-2024 15:52:18.010 [java] [DEBUG] Comparing 'com.arabamcom.step.BaseSteps.waitBySeconds' and 'com.arabamcom.step.BaseSteps.waitBySeconds'
+07-04-2024 15:52:18.010 [java] [DEBUG] Found Wait {} seconds in current project scope.
+07-04-2024 15:52:18.010 [java] [DEBUG] Comparing 'com.arabamcom.step.BaseSteps.waitBySeconds' and 'com.arabamcom.step.BaseSteps.waitBySeconds'
+07-04-2024 15:52:18.010 [java] [DEBUG] Found {} saniye bekle in current project scope.
+07-04-2024 15:52:18.010 [java] [DEBUG] Comparing 'com.arabamcom.step.BaseSteps.clickElement' and 'com.arabamcom.step.BaseSteps.clickElement'
+07-04-2024 15:52:18.010 [java] [DEBUG] Found Click to element {} in current project scope.
+07-04-2024 15:52:18.010 [java] [DEBUG] Comparing 'com.arabamcom.step.BaseSteps.clickElement' and 'com.arabamcom.step.BaseSteps.clickElement'
+07-04-2024 15:52:18.010 [java] [DEBUG] Found Elementine t�kla {} in current project scope.
+07-04-2024 15:52:18.010 [java] [DEBUG] Comparing 'com.arabamcom.step.BaseSteps.checkElementExistsThenClick' and 'com.arabamcom.step.BaseSteps.checkElementExistsThenClick'
+07-04-2024 15:52:18.010 [java] [DEBUG] Found Wait for element then click {} in current project scope.
+07-04-2024 15:52:18.010 [java] [DEBUG] Comparing 'com.arabamcom.step.BaseSteps.checkElementExistsThenClick' and 'com.arabamcom.step.BaseSteps.checkElementExistsThenClick'
+07-04-2024 15:52:18.011 [java] [DEBUG] Found Elementi bekle ve sonra t�kla {} in current project scope.
+07-04-2024 15:52:18.011 [java] [DEBUG] Comparing 'com.arabamcom.step.BaseSteps.checkelementtext' and 'com.arabamcom.step.BaseSteps.checkelementtext'
+07-04-2024 15:52:18.011 [java] [DEBUG] Found {} li element comparetexti i�eriyor mu in current project scope.
+07-04-2024 15:52:18.011 [java] [DEBUG] Comparing 'com.arabamcom.step.BaseSteps.chooseRandomElementFromList' and 'com.arabamcom.step.BaseSteps.chooseRandomElementFromList'
+07-04-2024 15:52:18.011 [java] [DEBUG] Found {} menu listesinden rasgele se� in current project scope.
+07-04-2024 15:52:18.011 [java] [DEBUG] Comparing 'com.arabamcom.step.BaseSteps.getElementWithKeyIfExists' and 'com.arabamcom.step.BaseSteps.getElementWithKeyIfExists'
+07-04-2024 15:52:18.011 [java] [DEBUG] Found Check if element {} exists in current project scope.
+07-04-2024 15:52:18.011 [java] [DEBUG] Comparing 'com.arabamcom.step.BaseSteps.getElementWithKeyIfExists' and 'com.arabamcom.step.BaseSteps.getElementWithKeyIfExists'
+07-04-2024 15:52:18.011 [java] [DEBUG] Found Wait for element to load with key {} in current project scope.
+07-04-2024 15:52:18.011 [java] [DEBUG] Comparing 'com.arabamcom.step.BaseSteps.getElementWithKeyIfExists' and 'com.arabamcom.step.BaseSteps.getElementWithKeyIfExists'
+07-04-2024 15:52:18.011 [java] [DEBUG] Found Element var m� kontrol et {} in current project scope.
+07-04-2024 15:52:18.011 [java] [DEBUG] Comparing 'com.arabamcom.step.BaseSteps.getElementWithKeyIfExists' and 'com.arabamcom.step.BaseSteps.getElementWithKeyIfExists'
+07-04-2024 15:52:18.011 [java] [DEBUG] Found Elementin y�klenmesini bekle {} in current project scope.
+07-04-2024 15:52:18.011 [java] [DEBUG] Scanning packages for hooks
+07-04-2024 15:52:18.017 [java] [DEBUG] Scanned steps (using static parsing + reflections): 
+07-04-2024 15:52:18.017 [java] [DEBUG] 	Elementin y�klenmesini bekle {} : public WebElement getElementWithKeyIfExists(String key)
+07-04-2024 15:52:18.017 [java] [DEBUG] 	Wait {} milliseconds : public void waitByMilliSeconds(long milliseconds)
+07-04-2024 15:52:18.017 [java] [DEBUG] 	Write random value to element {} : public void writeRandomValueToElement(String key)
+07-04-2024 15:52:18.017 [java] [DEBUG] 	{} menu listesinden rasgele se� : public void chooseRandomElementFromList(String key) throws InterruptedException
+07-04-2024 15:52:18.017 [java] [DEBUG] 	{} elementine random de�er yaz : public void writeRandomValueToElement(String key)
+07-04-2024 15:52:18.017 [java] [DEBUG] 	Elementi bekle ve sonra t�kla {} : public void checkElementExistsThenClick(String key)
+07-04-2024 15:52:18.017 [java] [DEBUG] 	Click to element {} : public void clickElement(String key)
+07-04-2024 15:52:18.017 [java] [DEBUG] 	{} milisaniye bekle : public void waitByMilliSeconds(long milliseconds)
+07-04-2024 15:52:18.018 [java] [DEBUG] 	{} adresine git : public void goToUrl(String url)
+07-04-2024 15:52:18.018 [java] [DEBUG] 	{} li element comparetexti i�eriyor mu : public void checkelementtext(String key)
+07-04-2024 15:52:18.018 [java] [DEBUG] 	Wait for element to load with key {} : public WebElement getElementWithKeyIfExists(String key)
+07-04-2024 15:52:18.018 [java] [DEBUG] 	{} saniye bekle. : public void waitSec(�nt seconds) throws InterruptedException
+07-04-2024 15:52:18.018 [java] [DEBUG] 	Element var m� kontrol et {} : public WebElement getElementWithKeyIfExists(String key)
+07-04-2024 15:52:18.018 [java] [DEBUG] 	{} saniye bekle : public void waitBySeconds(�nt seconds)
+07-04-2024 15:52:18.018 [java] [DEBUG] 	Wait for element then click {} : public void checkElementExistsThenClick(String key)
+07-04-2024 15:52:18.018 [java] [DEBUG] 	{} textini {} elementine yaz. : public void sendKeysText(String text, String key)
+07-04-2024 15:52:18.018 [java] [DEBUG] 	{} elementine {} de�erini js ile yaz : public void writeToKeyWithJavaScript(String key, String text)
+07-04-2024 15:52:18.018 [java] [DEBUG] 	Elementine t�kla {} : public void clickElement(String key)
+07-04-2024 15:52:18.018 [java] [DEBUG] 	{} textini {} elemente yaz : public void ssendKeys(String text, String key)
+07-04-2024 15:52:18.018 [java] [DEBUG] 	Go to {} address : public void goToUrl(String url)
+07-04-2024 15:52:18.018 [java] [DEBUG] 	Check if element {} exists : public WebElement getElementWithKeyIfExists(String key)
+07-04-2024 15:52:18.018 [java] [DEBUG] 	Wait {} seconds : public void waitBySeconds(�nt seconds)
+07-04-2024 15:52:18.018 [java] [DEBUG] 	Write value {} to element {} : public void ssendKeys(String text, String key)
+07-04-2024 15:52:18.458 [java] [INFO] 2024-04-07 15:52:18 INFO  Reflections:219 scan - Reflections took 432 ms to scan 172 urls, producing 5596 keys and 24936 values
+07-04-2024 15:52:18.515 [Gauge] [DEBUG] Validation completed.
+07-04-2024 15:52:18.516 [Gauge] [DEBUG] Run started
+07-04-2024 15:52:18.516 [Gauge] [DEBUG] Starting Xml Report plugin
+07-04-2024 15:52:18.536 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 63949
+07-04-2024 15:52:18.536 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 63949
+07-04-2024 15:52:18.536 [Gauge] [DEBUG] Initialising suite data store.
+07-04-2024 15:52:19.755 [java] [ERROR] Nis 07, 2024 3:52:19 �S org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+07-04-2024 15:52:19.755 [java] [ERROR] WARNING: Unable to find an exact match for CDP version 123, returning the closest version; found: 120; Please update to a Selenium version that supports CDP version 123
+07-04-2024 15:52:20.572 [java] [ERROR] Nis 07, 2024 3:52:20 �S org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+07-04-2024 15:52:20.572 [java] [ERROR] WARNING: Unable to find an exact match for CDP version 123, returning the closest version; found: 120; Please update to a Selenium version that supports CDP version 123
+07-04-2024 15:52:20.581 [java] [DEBUG] Executing '{} adresine git' using 'class com.arabamcom.step.BaseSteps.goToUrl
+07-04-2024 15:52:22.746 [java] [INFO] 2024-04-07 15:52:22 INFO  BaseSteps:158 goToUrl - https://arabam.com adresine gidiliyor.
+07-04-2024 15:52:22.754 [java] [DEBUG] Executing 'Check if element {} exists' using 'class com.arabamcom.step.BaseSteps.getElementWithKeyIfExists
+07-04-2024 15:52:22.832 [java] [INFO] 2024-04-07 15:52:22 INFO  BaseSteps:91 getElementWithKeyIfExists - Accept_Cookies elementi bulundu.
+07-04-2024 15:52:22.839 [java] [DEBUG] Executing 'Click to element {}' using 'class com.arabamcom.step.BaseSteps.clickElement
+07-04-2024 15:52:23.006 [java] [INFO] 2024-04-07 15:52:23 INFO  BaseSteps:117 waitByMilliSeconds - 500 milisaniye bekleniyor.
+07-04-2024 15:52:23.597 [java] [INFO] 2024-04-07 15:52:23 INFO  BaseSteps:140 clickElement - Accept_Cookies elementine tıklandı.
+07-04-2024 15:52:23.600 [java] [DEBUG] Executing 'Check if element {} exists' using 'class com.arabamcom.step.BaseSteps.getElementWithKeyIfExists
+07-04-2024 15:52:23.615 [java] [INFO] 2024-04-07 15:52:23 INFO  BaseSteps:91 getElementWithKeyIfExists - HeaderLogoCheck elementi bulundu.
+07-04-2024 15:52:23.619 [java] [DEBUG] Executing '{} saniye bekle' using 'class com.arabamcom.step.BaseSteps.waitBySeconds
+07-04-2024 15:52:23.619 [java] [INFO] 2024-04-07 15:52:23 INFO  BaseSteps:106 waitBySeconds - 1 saniye bekleniyor.
+07-04-2024 15:52:24.639 [java] [DEBUG] Executing 'Check if element {} exists' using 'class com.arabamcom.step.BaseSteps.getElementWithKeyIfExists
+07-04-2024 15:52:24.652 [java] [INFO] 2024-04-07 15:52:24 INFO  BaseSteps:91 getElementWithKeyIfExists - Prige_Suggestion elementi bulundu.
+07-04-2024 15:52:24.656 [java] [DEBUG] Executing 'Click to element {}' using 'class com.arabamcom.step.BaseSteps.clickElement
+07-04-2024 15:52:24.792 [java] [INFO] 2024-04-07 15:52:24 INFO  BaseSteps:117 waitByMilliSeconds - 500 milisaniye bekleniyor.

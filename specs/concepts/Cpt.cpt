@@ -1,0 +1,90 @@
+# Arabamcom Anasayfasına git
+* "https://arabam.com" adresine git
+* Check if element "Accept_Cookies" exists
+* Click to element "Accept_Cookies"
+* Check if element "HeaderLogoCheck" exists
+* "1" saniye bekle
+
+# Arama Kaç Para Sayfasına Git
+* Check if element "Prige_Suggestion" exists
+* Click to element "Prige_Suggestion"
+* Check if element "Prige_Suggestion" exists
+
+# Aracımın Fiyatını Merak Ediyorum
+* Check if element "fiyat_merak" exists
+* Click to element "fiyat_merak"
+
+# Login Ol
+* Check if element "emailOrPhone" exists
+* Write value "mharunmutlu@gmail.com" to element "emailOrPhone"
+* Check if element "password" exists
+* Write value "Mharun_135" to element "password"
+* Check if element "Login-Btn" exists
+* Click to element "Login-Btn"
+* Wait "5" seconds
+
+# Rastgele Marka Seç
+* Check if element "breadCrumb" exists
+* Check if element "Random-marka-Pick" exists
+* "Random-marka-Pick" menu listesinden rasgele seç
+* Wait "1" seconds
+
+# Rastgele Yıl Seç
+* Check if element "breadCrumb" exists
+* "Marka-Span-Text" li element comparetexti içeriyor mu
+* Check if element "Random-yıl-Pick" exists
+* "Random-yıl-Pick" menu listesinden rasgele seç
+* Wait "1" seconds
+
+# Rastgele Model Seç
+* Check if element "breadCrumb" exists
+* "Yil-Span-Text" li element comparetexti içeriyor mu
+* Check if element "Random-model-Pick" exists
+* "Random-model-Pick" menu listesinden rasgele seç
+* Wait "1" seconds
+
+# Rastgele Kasa Seç
+* Check if element "breadCrumb" exists
+* "Model-Span-Text" li element comparetexti içeriyor mu
+* Check if element "Random-kasa-Pick" exists
+* "Random-kasa-Pick" menu listesinden rasgele seç
+* Wait "1" seconds
+
+# Rastgele Yakıt Seç
+* Check if element "breadCrumb" exists
+* "Kasa-Span-Text" li element comparetexti içeriyor mu
+* Check if element "Random-yakıt-Pick" exists
+* "Random-yakıt-Pick" menu listesinden rasgele seç
+* Wait "1" seconds
+
+# Rastgele Vites Seç
+* Check if element "breadCrumb" exists
+* "Yakit-Span-Text" li element comparetexti içeriyor mu
+* Check if element "Random-vites-Pick" exists
+* "Random-vites-Pick" menu listesinden rasgele seç
+* Wait "1" seconds
+
+# Rastgele Paket Seç
+* Check if element "breadCrumb" exists
+* "Vites-Span-Text" li element comparetexti içeriyor mu
+* Check if element "Random-paket-Pick" exists
+* "Random-paket-Pick" menu listesinden rasgele seç
+* Wait "1" seconds
+
+# Rastgele Renk Seç
+* Check if element "breadCrumb" exists
+ "Paket-Span-Text" li element comparetexti içeriyor mu
+* Check if element "Random-renk-Pick" exists
+* "Random-renk-Pick" menu listesinden rasgele seç
+* Wait "1" seconds
+
+# Rasgele Km Gir
+* Check if element "breadCrumb" exists
+* "Renk-Span-Text" li element comparetexti içeriyor mu
+* Check if element "km-input" exists
+* Write random value to element "km-input"
+* Check if element "km-submit-btn" exists
+* Click to element "km-submit-btn"
+
+# Tramer Sayfası açılır
+* Check if element "Tramer-Damege-SVG" exists

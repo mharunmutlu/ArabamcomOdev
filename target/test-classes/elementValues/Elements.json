@@ -1,0 +1,142 @@
+[
+  {
+    "key": "HeaderLogoCheck",
+    "value":"[class=\"header__logo\"]",
+    "type": "css"
+  },
+  {
+  "key": "Accept_Cookies",
+  "value":"onetrust-accept-btn-handler",
+  "type": "id"
+  },
+  {
+  "key": "Prige_Suggestion",
+  "value":"price-suggestion",
+  "type": "id"
+  },
+  {
+  "key": "fiyat_merak",
+  "value":"div:nth-child(3) > div > span[class='type-name']",
+  "type": "css"
+  },
+  {
+    "key": "emailOrPhone",
+    "value":"emailOrPhone",
+    "type": "id"
+  },
+  {
+    "key": "password",
+    "value":"password",
+    "type": "id"
+  },
+  {
+    "key": "Login-Btn",
+    "value":"[class='btn-form-submit']",
+    "type": "css"
+  },
+  {
+    "key": "breadCrumb",
+    "value":"price-suggestion-breadcrumb",
+    "type": "id"
+  },
+  {
+    "key": "Random-marka-Pick",
+    "value":"[class='step-item']",
+    "type": "css"
+  },
+  {
+    "key": "Random-yıl-Pick",
+    "value":"[class='step-item']",
+    "type": "css"
+  },
+  {
+    "key": "Random-model-Pick",
+    "value":"[class='step-item']",
+    "type": "css"
+  },
+  {
+    "key": "Random-kasa-Pick",
+    "value":"[class='step-item']",
+    "type": "css"
+  },
+  {
+    "key": "Random-yakıt-Pick",
+    "value":"[class='step-item']",
+    "type": "css"
+  },
+  {
+    "key": "Random-vites-Pick",
+    "value":"[class='step-item']",
+    "type": "css"
+  },
+  {
+    "key": "Random-paket-Pick",
+    "value":"[class='model-step-item']",
+    "type": "css"
+  },
+  {
+    "key": "Random-renk-Pick",
+    "value":"[class='step-item']",
+    "type": "css"
+  },
+  {
+    "key": "km-input",
+    "value":"[class='form-control2018']",
+    "type": "css"
+  },
+  {
+    "key": "km-submit-btn",
+    "value":"[class='btn btn-blueblack-2018']",
+    "type": "css"
+  },
+  {
+    "key": "Marka-Span-Text",
+    "value":"li:nth-child(2) > a > span",
+    "type": "css"
+  },
+  {
+    "key": "Yil-Span-Text",
+    "value":"li:nth-child(3) > a > span",
+    "type": "css"
+  },
+  {
+    "key": "Model-Span-Text",
+    "value":"li:nth-child(4) > a > span",
+    "type": "css"
+  },
+  {
+    "key": "Kasa-Span-Text",
+    "value":"#price-suggestion-breadcrumb > li:nth-child(5) > a > span",
+    "type": "css"
+  },
+  {
+    "key": "Yakit-Span-Text",
+    "value":"li:nth-child(6) > a > span",
+    "type": "css"
+  },
+  {
+    "key": "Vites-Span-Text",
+    "value":"li:nth-child(7) > a > span",
+    "type": "css"
+  },
+  {
+    "key": "Paket-Span-Text",
+    "value":"li:nth-child(8) > a > span",
+    "type": "css"
+  },
+  {
+    "key": "Renk-Span-Text",
+    "value":"li:nth-child(9) > a > span",
+    "type": "css"
+  },
+  {
+    "key": "KM-Span-Text",
+    "value":"li:nth-child(10) > a > span",
+    "type": "css"
+  },
+  {
+    "key": "Tramer-Damege-SVG",
+    "value":"div[class='damage-svg-container']",
+    "type": "css"
+  }
+]

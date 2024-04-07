@@ -1,0 +1,103 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+SLF4J: A number (20) of logging calls during the initialization phase have been intercepted and are
+SLF4J: now being replayed. These are subject to the filtering rules of the underlying logging system.
+SLF4J: See also http://www.slf4j.org/codes.html#replay
+{"logLevel":"debug","message":"gauge-java took 907milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 907"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 63945"}
+{"logLevel":"info","message":"Listening on port:63945"}
+2024-04-07 15:52:17 INFO  Reflections:219 scan - Reflections took 1105 ms to scan 172 urls, producing 5674 keys and 34040 values
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'com.arabamcom.step.BaseSteps.goToUrl' and 'com.arabamcom.step.BaseSteps.goToUrl'"}
+{"logLevel":"debug","message":"Found Go to {} address in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.arabamcom.step.BaseSteps.goToUrl' and 'com.arabamcom.step.BaseSteps.goToUrl'"}
+{"logLevel":"debug","message":"Found {} adresine git in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.arabamcom.step.BaseSteps.waitByMilliSeconds' and 'com.arabamcom.step.BaseSteps.waitByMilliSeconds'"}
+{"logLevel":"debug","message":"Found Wait {} milliseconds in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.arabamcom.step.BaseSteps.waitByMilliSeconds' and 'com.arabamcom.step.BaseSteps.waitByMilliSeconds'"}
+{"logLevel":"debug","message":"Found {} milisaniye bekle in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.arabamcom.step.StepImplementation.sendKeysText' and 'com.arabamcom.step.StepImplementation.sendKeysText'"}
+{"logLevel":"debug","message":"Found {} textini {} elementine yaz. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.arabamcom.step.BaseSteps.writeToKeyWithJavaScript' and 'com.arabamcom.step.BaseSteps.writeToKeyWithJavaScript'"}
+{"logLevel":"debug","message":"Found {} elementine {} deðerini js ile yaz in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.arabamcom.step.StepImplementation.waitSec' and 'com.arabamcom.step.StepImplementation.waitSec'"}
+{"logLevel":"debug","message":"Found {} saniye bekle. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.arabamcom.step.BaseSteps.writeRandomValueToElement' and 'com.arabamcom.step.BaseSteps.writeRandomValueToElement'"}
+{"logLevel":"debug","message":"Found Write random value to element {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.arabamcom.step.BaseSteps.writeRandomValueToElement' and 'com.arabamcom.step.BaseSteps.writeRandomValueToElement'"}
+{"logLevel":"debug","message":"Found {} elementine random deðer yaz in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.arabamcom.step.BaseSteps.ssendKeys' and 'com.arabamcom.step.BaseSteps.ssendKeys'"}
+{"logLevel":"debug","message":"Found Write value {} to element {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.arabamcom.step.BaseSteps.ssendKeys' and 'com.arabamcom.step.BaseSteps.ssendKeys'"}
+{"logLevel":"debug","message":"Found {} textini {} elemente yaz in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.arabamcom.step.BaseSteps.waitBySeconds' and 'com.arabamcom.step.BaseSteps.waitBySeconds'"}
+{"logLevel":"debug","message":"Found Wait {} seconds in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.arabamcom.step.BaseSteps.waitBySeconds' and 'com.arabamcom.step.BaseSteps.waitBySeconds'"}
+{"logLevel":"debug","message":"Found {} saniye bekle in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.arabamcom.step.BaseSteps.clickElement' and 'com.arabamcom.step.BaseSteps.clickElement'"}
+{"logLevel":"debug","message":"Found Click to element {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.arabamcom.step.BaseSteps.clickElement' and 'com.arabamcom.step.BaseSteps.clickElement'"}
+{"logLevel":"debug","message":"Found Elementine týkla {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.arabamcom.step.BaseSteps.checkElementExistsThenClick' and 'com.arabamcom.step.BaseSteps.checkElementExistsThenClick'"}
+{"logLevel":"debug","message":"Found Wait for element then click {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.arabamcom.step.BaseSteps.checkElementExistsThenClick' and 'com.arabamcom.step.BaseSteps.checkElementExistsThenClick'"}
+{"logLevel":"debug","message":"Found Elementi bekle ve sonra týkla {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.arabamcom.step.BaseSteps.checkelementtext' and 'com.arabamcom.step.BaseSteps.checkelementtext'"}
+{"logLevel":"debug","message":"Found {} li element comparetexti içeriyor mu in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.arabamcom.step.BaseSteps.chooseRandomElementFromList' and 'com.arabamcom.step.BaseSteps.chooseRandomElementFromList'"}
+{"logLevel":"debug","message":"Found {} menu listesinden rasgele seç in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.arabamcom.step.BaseSteps.getElementWithKeyIfExists' and 'com.arabamcom.step.BaseSteps.getElementWithKeyIfExists'"}
+{"logLevel":"debug","message":"Found Check if element {} exists in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.arabamcom.step.BaseSteps.getElementWithKeyIfExists' and 'com.arabamcom.step.BaseSteps.getElementWithKeyIfExists'"}
+{"logLevel":"debug","message":"Found Wait for element to load with key {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.arabamcom.step.BaseSteps.getElementWithKeyIfExists' and 'com.arabamcom.step.BaseSteps.getElementWithKeyIfExists'"}
+{"logLevel":"debug","message":"Found Element var mý kontrol et {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.arabamcom.step.BaseSteps.getElementWithKeyIfExists' and 'com.arabamcom.step.BaseSteps.getElementWithKeyIfExists'"}
+{"logLevel":"debug","message":"Found Elementin yüklenmesini bekle {} in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tElementin yüklenmesini bekle {} : public WebElement getElementWithKeyIfExists(String key)"}
+{"logLevel":"debug","message":"\tWait {} milliseconds : public void waitByMilliSeconds(long milliseconds)"}
+{"logLevel":"debug","message":"\tWrite random value to element {} : public void writeRandomValueToElement(String key)"}
+{"logLevel":"debug","message":"\t{} menu listesinden rasgele seç : public void chooseRandomElementFromList(String key) throws InterruptedException"}
+{"logLevel":"debug","message":"\t{} elementine random deðer yaz : public void writeRandomValueToElement(String key)"}
+{"logLevel":"debug","message":"\tElementi bekle ve sonra týkla {} : public void checkElementExistsThenClick(String key)"}
+{"logLevel":"debug","message":"\tClick to element {} : public void clickElement(String key)"}
+{"logLevel":"debug","message":"\t{} milisaniye bekle : public void waitByMilliSeconds(long milliseconds)"}
+{"logLevel":"debug","message":"\t{} adresine git : public void goToUrl(String url)"}
+{"logLevel":"debug","message":"\t{} li element comparetexti içeriyor mu : public void checkelementtext(String key)"}
+{"logLevel":"debug","message":"\tWait for element to load with key {} : public WebElement getElementWithKeyIfExists(String key)"}
+{"logLevel":"debug","message":"\t{} saniye bekle. : public void waitSec(ýnt seconds) throws InterruptedException"}
+{"logLevel":"debug","message":"\tElement var mý kontrol et {} : public WebElement getElementWithKeyIfExists(String key)"}
+{"logLevel":"debug","message":"\t{} saniye bekle : public void waitBySeconds(ýnt seconds)"}
+{"logLevel":"debug","message":"\tWait for element then click {} : public void checkElementExistsThenClick(String key)"}
+{"logLevel":"debug","message":"\t{} textini {} elementine yaz. : public void sendKeysText(String text, String key)"}
+{"logLevel":"debug","message":"\t{} elementine {} deðerini js ile yaz : public void writeToKeyWithJavaScript(String key, String text)"}
+{"logLevel":"debug","message":"\tElementine týkla {} : public void clickElement(String key)"}
+{"logLevel":"debug","message":"\t{} textini {} elemente yaz : public void ssendKeys(String text, String key)"}
+{"logLevel":"debug","message":"\tGo to {} address : public void goToUrl(String url)"}
+{"logLevel":"debug","message":"\tCheck if element {} exists : public WebElement getElementWithKeyIfExists(String key)"}
+{"logLevel":"debug","message":"\tWait {} seconds : public void waitBySeconds(ýnt seconds)"}
+{"logLevel":"debug","message":"\tWrite value {} to element {} : public void ssendKeys(String text, String key)"}
+2024-04-07 15:52:18 INFO  Reflections:219 scan - Reflections took 432 ms to scan 172 urls, producing 5596 keys and 24936 values
+Nis 07, 2024 3:52:19 ÖS org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 123, returning the closest version; found: 120; Please update to a Selenium version that supports CDP version 123
+Nis 07, 2024 3:52:20 ÖS org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 123, returning the closest version; found: 120; Please update to a Selenium version that supports CDP version 123
+{"logLevel":"debug","message":"Executing '{} adresine git' using 'class com.arabamcom.step.BaseSteps.goToUrl"}
+2024-04-07 15:52:22 INFO  BaseSteps:158 goToUrl - https://arabam.com adresine gidiliyor.
+{"logLevel":"debug","message":"Executing 'Check if element {} exists' using 'class com.arabamcom.step.BaseSteps.getElementWithKeyIfExists"}
+2024-04-07 15:52:22 INFO  BaseSteps:91 getElementWithKeyIfExists - Accept_Cookies elementi bulundu.
+{"logLevel":"debug","message":"Executing 'Click to element {}' using 'class com.arabamcom.step.BaseSteps.clickElement"}
+2024-04-07 15:52:23 INFO  BaseSteps:117 waitByMilliSeconds - 500 milisaniye bekleniyor.
+2024-04-07 15:52:23 INFO  BaseSteps:140 clickElement - Accept_Cookies elementine tÄ±klandÄ±.
+{"logLevel":"debug","message":"Executing 'Check if element {} exists' using 'class com.arabamcom.step.BaseSteps.getElementWithKeyIfExists"}
+2024-04-07 15:52:23 INFO  BaseSteps:91 getElementWithKeyIfExists - HeaderLogoCheck elementi bulundu.
+{"logLevel":"debug","message":"Executing '{} saniye bekle' using 'class com.arabamcom.step.BaseSteps.waitBySeconds"}
+2024-04-07 15:52:23 INFO  BaseSteps:106 waitBySeconds - 1 saniye bekleniyor.
+{"logLevel":"debug","message":"Executing 'Check if element {} exists' using 'class com.arabamcom.step.BaseSteps.getElementWithKeyIfExists"}
+2024-04-07 15:52:24 INFO  BaseSteps:91 getElementWithKeyIfExists - Prige_Suggestion elementi bulundu.
+{"logLevel":"debug","message":"Executing 'Click to element {}' using 'class com.arabamcom.step.BaseSteps.clickElement"}
+2024-04-07 15:52:24 INFO  BaseSteps:117 waitByMilliSeconds - 500 milisaniye bekleniyor.
